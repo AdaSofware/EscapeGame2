@@ -1,0 +1,3841 @@
+fileFormatVersion: 2
+guid: e166fc2b27e6d3e419ced703020422d4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Att
+    100002: Att001
+    100004: Att002
+    100006: Att003
+    100008: Att004
+    100010: Att005
+    100012: Att006
+    100014: Att007
+    100016: Att008
+    100018: Att009
+    100020: Att010
+    100022: Att011
+    100024: Att012
+    100026: Att013
+    100028: Att014
+    100030: Att015
+    100032: Att016
+    100034: Att017
+    100036: Att018
+    100038: Att019
+    100040: Att020
+    100042: Att021
+    100044: Att022
+    100046: Att023
+    100048: Att024
+    100050: Att025
+    100052: Att026
+    100054: Att027
+    100056: Att028
+    100058: Att029
+    100060: Att030
+    100062: Att031
+    100064: Att032
+    100066: Att033
+    100068: Att034
+    100070: Att035
+    100072: Att036
+    100074: Att037
+    100076: Att038
+    100078: Att039
+    100080: Att040
+    100082: Att041
+    100084: Att042
+    100086: Att043
+    100088: Att044
+    100090: Att045
+    100092: Att046
+    100094: Att047
+    100096: Att048
+    100098: Att049
+    100100: Att050
+    100102: Att051
+    100104: Att052
+    100106: Att053
+    100108: Att054
+    100110: Att055
+    100112: Att056
+    100114: Att057
+    100116: Att058
+    100118: Att059
+    100120: Att060
+    100122: Att061
+    100124: Att062
+    100126: Att063
+    100128: Att064
+    100130: Att065
+    100132: Att066
+    100134: Att067
+    100136: Att068
+    100138: Att069
+    100140: Att070
+    100142: Att071
+    100144: Att072
+    100146: Att073
+    100148: Att074
+    100150: Att075
+    100152: Att076
+    100154: Att077
+    100156: Att078
+    100158: Att079
+    100160: Att080
+    100162: Att081
+    100164: Att082
+    100166: Att083
+    100168: Att084
+    100170: Att085
+    100172: Att086
+    100174: Att087
+    100176: Att088
+    100178: Att089
+    100180: Att090
+    100182: Att091
+    100184: Att092
+    100186: Att093
+    100188: Att094
+    100190: Att095
+    100192: Att096
+    100194: Att097
+    100196: Att098
+    100198: Att099
+    100200: Group001
+    100202: Group002
+    100204: Group003
+    100206: Group004
+    100208: Group005
+    100210: Group006
+    100212: Group007
+    100214: Group008
+    100216: Group009
+    100218: Group010
+    100220: Group011
+    100222: Group012
+    100224: Group013
+    100226: Group014
+    100228: Group015
+    100230: Group016
+    100232: Group017
+    100234: Group018
+    100236: Group019
+    100238: Group020
+    100240: Group021
+    100242: Group022
+    100244: Group023
+    100246: Group024
+    100248: Group025
+    100250: Group026
+    100252: Group027
+    100254: Group028
+    100256: Group029
+    100258: Group030
+    100260: Group031
+    100262: Group032
+    100264: Group033
+    100266: Group034
+    100268: Group035
+    100270: Group036
+    100272: Group037
+    100274: Group038
+    100276: Group039
+    100278: Group040
+    100280: Group041
+    100282: Group042
+    100284: Group043
+    100286: Group044
+    100288: Group045
+    100290: Group046
+    100292: Group047
+    100294: Group048
+    100296: Group049
+    100298: Group050
+    100300: OilTank001
+    100302: OilTank003
+    100304: OilTank004
+    100306: OilTank005
+    100308: OilTank006
+    100310: OilTank007
+    100312: OilTank008
+    100314: OilTank009
+    100316: OilTank010
+    100318: OilTank011
+    100320: OilTank012
+    100322: OilTank013
+    100324: OilTank014
+    100326: OilTank015
+    100328: OilTank016
+    100330: OilTank017
+    100332: OilTank018
+    100334: OilTank019
+    100336: OilTank020
+    100338: OilTank021
+    100340: OilTank022
+    100342: OilTank023
+    100344: OilTank024
+    100346: OilTank025
+    100348: OilTank026
+    100350: OilTank027
+    100352: OilTank028
+    100354: OilTank029
+    100356: OilTank030
+    100358: OilTank031
+    100360: OilTank032
+    100362: OilTank033
+    100364: OilTank034
+    100366: OilTank035
+    100368: OilTank036
+    100370: OilTank037
+    100372: OilTank038
+    100374: OilTank039
+    100376: OilTank040
+    100378: OilTank041
+    100380: OilTank042
+    100382: OilTank043
+    100384: OilTank044
+    100386: OilTank045
+    100388: OilTank046
+    100390: OilTank047
+    100392: OilTank048
+    100394: OilTank049
+    100396: OilTank050
+    100398: OilTank051
+    100400: OilTank052
+    100402: OilTank053
+    100404: OilTank054
+    100406: OilTank055
+    100408: OilTank056
+    100410: OilTank057
+    100412: OilTank058
+    100414: OilTank059
+    100416: OilTank060
+    100418: OilTank061
+    100420: OilTank062
+    100422: OilTank063
+    100424: OilTank064
+    100426: OilTank065
+    100428: OilTank066
+    100430: OilTank067
+    100432: OilTank068
+    100434: OilTank069
+    100436: OilTank070
+    100438: OilTank071
+    100440: OilTank072
+    100442: OilTank073
+    100444: OilTank074
+    100446: OilTank075
+    100448: OilTank076
+    100450: OilTank077
+    100452: OilTank078
+    100454: OilTank079
+    100456: OilTank080
+    100458: OilTank081
+    100460: OilTank082
+    100462: OilTank083
+    100464: OilTank084
+    100466: OilTank085
+    100468: OilTank086
+    100470: OilTank087
+    100472: OilTank088
+    100474: OilTank089
+    100476: OilTank090
+    100478: OilTank091
+    100480: OilTank092
+    100482: OilTank093
+    100484: OilTank094
+    100486: OilTank095
+    100488: OilTank096
+    100490: OilTank097
+    100492: OilTank098
+    100494: OilTank099
+    100496: OilTank100
+    100498: OilTank101
+    100500: OilTank102
+    100502: OilTank103
+    100504: OilTank104
+    100506: OilTank105
+    100508: OilTank106
+    100510: OilTank107
+    100512: OilTank108
+    100514: OilTank109
+    100516: OilTank110
+    100518: OilTank111
+    100520: OilTank112
+    100522: OilTank113
+    100524: OilTank114
+    100526: OilTank115
+    100528: OilTank116
+    100530: OilTank117
+    100532: OilTank118
+    100534: OilTank119
+    100536: OilTank120
+    100538: OilTank121
+    100540: OilTank122
+    100542: OilTank123
+    100544: OilTank124
+    100546: OilTank125
+    100548: OilTank126
+    100550: OilTank127
+    100552: OilTank128
+    100554: OilTank129
+    100556: OilTank130
+    100558: OilTank131
+    100560: OilTank132
+    100562: OilTank133
+    100564: OilTank134
+    100566: OilTank135
+    100568: OilTank136
+    100570: OilTank137
+    100572: OilTank138
+    100574: OilTank139
+    100576: OilTank140
+    100578: OilTank141
+    100580: OilTank142
+    100582: OilTank143
+    100584: OilTank144
+    100586: OilTank145
+    100588: OilTank146
+    100590: OilTank147
+    100592: OilTank148
+    100594: OilTank149
+    100596: OilTank150
+    100598: OilTank151
+    100600: OilTank152
+    100602: OilTank153
+    100604: OilTank154
+    100606: OilTank155
+    100608: OilTank156
+    100610: OilTank157
+    100612: OilTank158
+    100614: OilTank159
+    100616: OilTank160
+    100618: OilTank161
+    100620: OilTank162
+    100622: OilTank163
+    100624: OilTank164
+    100626: OilTank165
+    100628: OilTank166
+    100630: OilTank167
+    100632: OilTank168
+    100634: OilTank169
+    100636: OilTank170
+    100638: OilTank171
+    100640: OilTank172
+    100642: OilTank173
+    100644: OilTank174
+    100646: OilTank175
+    100648: OilTank176
+    100650: OilTank177
+    100652: OilTank178
+    100654: OilTank179
+    100656: OilTank180
+    100658: OilTank181
+    100660: OilTank182
+    100662: OilTank183
+    100664: OilTank184
+    100666: OilTank185
+    100668: OilTank186
+    100670: OilTank187
+    100672: OilTank188
+    100674: OilTank189
+    100676: OilTank190
+    100678: OilTank191
+    100680: OilTank192
+    100682: OilTank193
+    100684: OilTank194
+    100686: OilTank195
+    100688: OilTank196
+    100690: OilTank197
+    100692: OilTank198
+    100694: OilTank199
+    100696: OilTank200
+    100698: OilTank201
+    100700: OilTank202
+    100702: OilTank203
+    100704: OilTank204
+    100706: OilTank205
+    100708: OilTank206
+    100710: OilTank207
+    100712: OilTank208
+    100714: OilTank209
+    100716: OilTank210
+    100718: OilTank211
+    100720: OilTank212
+    100722: OilTank213
+    100724: OilTank214
+    100726: OilTank215
+    100728: OilTank216
+    100730: OilTank217
+    100732: OilTank218
+    100734: OilTank219
+    100736: OilTank220
+    100738: OilTank221
+    100740: OilTank222
+    100742: OilTank223
+    100744: OilTank224
+    100746: OilTank225
+    100748: OilTank226
+    100750: OilTank227
+    100752: OilTank228
+    100754: OilTank229
+    100756: OilTank230
+    100758: OilTank231
+    100760: OilTank232
+    100762: OilTank233
+    100764: OilTank234
+    100766: OilTank235
+    100768: OilTank236
+    100770: OilTank237
+    100772: OilTank238
+    100774: OilTank239
+    100776: OilTank240
+    100778: OilTank241
+    100780: OilTank242
+    100782: OilTank243
+    100784: OilTank244
+    100786: OilTank245
+    100788: OilTank246
+    100790: OilTank247
+    100792: OilTank248
+    100794: OilTank249
+    100796: OilTank250
+    100798: OilTank251
+    100800: OilTank252
+    100802: OilTank253
+    100804: OilTank254
+    100806: OilTank255
+    100808: OilTank256
+    100810: OilTank257
+    100812: OilTank258
+    100814: OilTank259
+    100816: OilTank260
+    100818: OilTank261
+    100820: OilTank262
+    100822: OilTank263
+    100824: OilTank264
+    100826: OilTank265
+    100828: OilTank266
+    100830: OilTank267
+    100832: OilTank268
+    100834: OilTank269
+    100836: OilTank270
+    100838: OilTank271
+    100840: OilTank272
+    100842: OilTank273
+    100844: OilTank274
+    100846: OilTank275
+    100848: OilTank276
+    100850: OilTank277
+    100852: OilTank278
+    100854: OilTank279
+    100856: OilTank280
+    100858: OilTank281
+    100860: OilTank282
+    100862: OilTank283
+    100864: OilTank284
+    100866: OilTank285
+    100868: OilTank286
+    100870: OilTank287
+    100872: OilTank288
+    100874: OilTank289
+    100876: OilTank290
+    100878: OilTank291
+    100880: OilTank292
+    100882: OilTank293
+    100884: OilTank294
+    100886: OilTank295
+    100888: OilTank296
+    100890: OilTank297
+    100892: OilTank298
+    100894: OilTank299
+    100896: OilTank300
+    100898: OilTank301
+    100900: OilTank302
+    100902: OilTank303
+    100904: OilTank304
+    100906: OilTank305
+    100908: OilTank306
+    100910: OilTank307
+    100912: OilTank308
+    100914: OilTank309
+    100916: OilTank310
+    100918: OilTank311
+    100920: OilTank312
+    100922: OilTank313
+    100924: OilTank314
+    100926: OilTank315
+    100928: OilTank316
+    100930: OilTank317
+    100932: OilTank318
+    100934: OilTank319
+    100936: OilTank320
+    100938: OilTank321
+    100940: OilTank322
+    100942: OilTank323
+    100944: OilTank324
+    100946: OilTank325
+    100948: OilTank326
+    100950: OilTank327
+    100952: OilTank328
+    100954: OilTank329
+    100956: OilTank330
+    100958: OilTank331
+    100960: OilTank332
+    100962: OilTank333
+    100964: OilTank334
+    100966: OilTank335
+    100968: OilTank336
+    100970: OilTank337
+    100972: OilTank338
+    100974: OilTank339
+    100976: OilTank340
+    100978: OilTank341
+    100980: OilTank342
+    100982: OilTank343
+    100984: OilTank344
+    100986: OilTank345
+    100988: OilTank346
+    100990: OilTank347
+    100992: OilTank348
+    100994: OilTank349
+    100996: OilTank350
+    100998: OilTank351
+    101000: OilTank352
+    101002: OilTank353
+    101004: OilTank354
+    101006: OilTank355
+    101008: OilTank356
+    101010: OilTank357
+    101012: OilTank358
+    101014: OilTank359
+    101016: OilTank360
+    101018: OilTank361
+    101020: OilTank362
+    101022: OilTank363
+    101024: OilTank364
+    101026: OilTank365
+    101028: OilTank366
+    101030: OilTank367
+    101032: OilTank368
+    101034: OilTank369
+    101036: OilTank370
+    101038: OilTank371
+    101040: OilTank372
+    101042: OilTank373
+    101044: OilTank374
+    101046: OilTank375
+    101048: OilTank376
+    101050: OilTank377
+    101052: OilTank378
+    101054: OilTank379
+    101056: OilTank380
+    101058: OilTank381
+    101060: OilTank382
+    101062: OilTank383
+    101064: OilTank384
+    101066: OilTank385
+    101068: OilTank386
+    101070: OilTank387
+    101072: OilTank388
+    101074: OilTank389
+    101076: OilTank390
+    101078: OilTank391
+    101080: OilTank392
+    101082: OilTank393
+    101084: OilTank394
+    101086: OilTank395
+    101088: OilTank396
+    101090: OilTank397
+    101092: OilTank398
+    101094: OilTank399
+    101096: OilTank400
+    101098: OilTank401
+    101100: //RootNode
+    101102: Tube001
+    101104: Tube002
+    101106: Tube003
+    101108: Tube004
+    101110: Tube005
+    101112: Tube006
+    101114: Tube007
+    101116: Tube008
+    101118: Tube009
+    101120: Tube010
+    101122: Tube011
+    101124: Tube012
+    101126: Tube013
+    101128: Tube014
+    101130: Tube015
+    101132: Tube016
+    101134: Tube017
+    101136: Tube018
+    101138: Tube019
+    101140: Tube020
+    101142: Tube021
+    101144: Tube022
+    101146: Tube023
+    101148: Tube024
+    101150: Tube025
+    101152: Tube026
+    101154: Tube027
+    101156: Tube028
+    101158: Tube029
+    101160: Tube030
+    101162: Tube031
+    101164: Tube032
+    101166: Tube033
+    101168: Tube034
+    101170: Tube035
+    101172: Tube036
+    101174: Tube037
+    101176: Tube038
+    101178: Tube039
+    101180: Tube040
+    101182: Tube041
+    101184: Tube042
+    101186: Tube043
+    101188: Tube044
+    101190: Tube045
+    101192: Tube046
+    101194: Tube047
+    101196: Tube048
+    101198: Tube049
+    101200: Tube050
+    400000: Att
+    400002: Att001
+    400004: Att002
+    400006: Att003
+    400008: Att004
+    400010: Att005
+    400012: Att006
+    400014: Att007
+    400016: Att008
+    400018: Att009
+    400020: Att010
+    400022: Att011
+    400024: Att012
+    400026: Att013
+    400028: Att014
+    400030: Att015
+    400032: Att016
+    400034: Att017
+    400036: Att018
+    400038: Att019
+    400040: Att020
+    400042: Att021
+    400044: Att022
+    400046: Att023
+    400048: Att024
+    400050: Att025
+    400052: Att026
+    400054: Att027
+    400056: Att028
+    400058: Att029
+    400060: Att030
+    400062: Att031
+    400064: Att032
+    400066: Att033
+    400068: Att034
+    400070: Att035
+    400072: Att036
+    400074: Att037
+    400076: Att038
+    400078: Att039
+    400080: Att040
+    400082: Att041
+    400084: Att042
+    400086: Att043
+    400088: Att044
+    400090: Att045
+    400092: Att046
+    400094: Att047
+    400096: Att048
+    400098: Att049
+    400100: Att050
+    400102: Att051
+    400104: Att052
+    400106: Att053
+    400108: Att054
+    400110: Att055
+    400112: Att056
+    400114: Att057
+    400116: Att058
+    400118: Att059
+    400120: Att060
+    400122: Att061
+    400124: Att062
+    400126: Att063
+    400128: Att064
+    400130: Att065
+    400132: Att066
+    400134: Att067
+    400136: Att068
+    400138: Att069
+    400140: Att070
+    400142: Att071
+    400144: Att072
+    400146: Att073
+    400148: Att074
+    400150: Att075
+    400152: Att076
+    400154: Att077
+    400156: Att078
+    400158: Att079
+    400160: Att080
+    400162: Att081
+    400164: Att082
+    400166: Att083
+    400168: Att084
+    400170: Att085
+    400172: Att086
+    400174: Att087
+    400176: Att088
+    400178: Att089
+    400180: Att090
+    400182: Att091
+    400184: Att092
+    400186: Att093
+    400188: Att094
+    400190: Att095
+    400192: Att096
+    400194: Att097
+    400196: Att098
+    400198: Att099
+    400200: Group001
+    400202: Group002
+    400204: Group003
+    400206: Group004
+    400208: Group005
+    400210: Group006
+    400212: Group007
+    400214: Group008
+    400216: Group009
+    400218: Group010
+    400220: Group011
+    400222: Group012
+    400224: Group013
+    400226: Group014
+    400228: Group015
+    400230: Group016
+    400232: Group017
+    400234: Group018
+    400236: Group019
+    400238: Group020
+    400240: Group021
+    400242: Group022
+    400244: Group023
+    400246: Group024
+    400248: Group025
+    400250: Group026
+    400252: Group027
+    400254: Group028
+    400256: Group029
+    400258: Group030
+    400260: Group031
+    400262: Group032
+    400264: Group033
+    400266: Group034
+    400268: Group035
+    400270: Group036
+    400272: Group037
+    400274: Group038
+    400276: Group039
+    400278: Group040
+    400280: Group041
+    400282: Group042
+    400284: Group043
+    400286: Group044
+    400288: Group045
+    400290: Group046
+    400292: Group047
+    400294: Group048
+    400296: Group049
+    400298: Group050
+    400300: OilTank001
+    400302: OilTank003
+    400304: OilTank004
+    400306: OilTank005
+    400308: OilTank006
+    400310: OilTank007
+    400312: OilTank008
+    400314: OilTank009
+    400316: OilTank010
+    400318: OilTank011
+    400320: OilTank012
+    400322: OilTank013
+    400324: OilTank014
+    400326: OilTank015
+    400328: OilTank016
+    400330: OilTank017
+    400332: OilTank018
+    400334: OilTank019
+    400336: OilTank020
+    400338: OilTank021
+    400340: OilTank022
+    400342: OilTank023
+    400344: OilTank024
+    400346: OilTank025
+    400348: OilTank026
+    400350: OilTank027
+    400352: OilTank028
+    400354: OilTank029
+    400356: OilTank030
+    400358: OilTank031
+    400360: OilTank032
+    400362: OilTank033
+    400364: OilTank034
+    400366: OilTank035
+    400368: OilTank036
+    400370: OilTank037
+    400372: OilTank038
+    400374: OilTank039
+    400376: OilTank040
+    400378: OilTank041
+    400380: OilTank042
+    400382: OilTank043
+    400384: OilTank044
+    400386: OilTank045
+    400388: OilTank046
+    400390: OilTank047
+    400392: OilTank048
+    400394: OilTank049
+    400396: OilTank050
+    400398: OilTank051
+    400400: OilTank052
+    400402: OilTank053
+    400404: OilTank054
+    400406: OilTank055
+    400408: OilTank056
+    400410: OilTank057
+    400412: OilTank058
+    400414: OilTank059
+    400416: OilTank060
+    400418: OilTank061
+    400420: OilTank062
+    400422: OilTank063
+    400424: OilTank064
+    400426: OilTank065
+    400428: OilTank066
+    400430: OilTank067
+    400432: OilTank068
+    400434: OilTank069
+    400436: OilTank070
+    400438: OilTank071
+    400440: OilTank072
+    400442: OilTank073
+    400444: OilTank074
+    400446: OilTank075
+    400448: OilTank076
+    400450: OilTank077
+    400452: OilTank078
+    400454: OilTank079
+    400456: OilTank080
+    400458: OilTank081
+    400460: OilTank082
+    400462: OilTank083
+    400464: OilTank084
+    400466: OilTank085
+    400468: OilTank086
+    400470: OilTank087
+    400472: OilTank088
+    400474: OilTank089
+    400476: OilTank090
+    400478: OilTank091
+    400480: OilTank092
+    400482: OilTank093
+    400484: OilTank094
+    400486: OilTank095
+    400488: OilTank096
+    400490: OilTank097
+    400492: OilTank098
+    400494: OilTank099
+    400496: OilTank100
+    400498: OilTank101
+    400500: OilTank102
+    400502: OilTank103
+    400504: OilTank104
+    400506: OilTank105
+    400508: OilTank106
+    400510: OilTank107
+    400512: OilTank108
+    400514: OilTank109
+    400516: OilTank110
+    400518: OilTank111
+    400520: OilTank112
+    400522: OilTank113
+    400524: OilTank114
+    400526: OilTank115
+    400528: OilTank116
+    400530: OilTank117
+    400532: OilTank118
+    400534: OilTank119
+    400536: OilTank120
+    400538: OilTank121
+    400540: OilTank122
+    400542: OilTank123
+    400544: OilTank124
+    400546: OilTank125
+    400548: OilTank126
+    400550: OilTank127
+    400552: OilTank128
+    400554: OilTank129
+    400556: OilTank130
+    400558: OilTank131
+    400560: OilTank132
+    400562: OilTank133
+    400564: OilTank134
+    400566: OilTank135
+    400568: OilTank136
+    400570: OilTank137
+    400572: OilTank138
+    400574: OilTank139
+    400576: OilTank140
+    400578: OilTank141
+    400580: OilTank142
+    400582: OilTank143
+    400584: OilTank144
+    400586: OilTank145
+    400588: OilTank146
+    400590: OilTank147
+    400592: OilTank148
+    400594: OilTank149
+    400596: OilTank150
+    400598: OilTank151
+    400600: OilTank152
+    400602: OilTank153
+    400604: OilTank154
+    400606: OilTank155
+    400608: OilTank156
+    400610: OilTank157
+    400612: OilTank158
+    400614: OilTank159
+    400616: OilTank160
+    400618: OilTank161
+    400620: OilTank162
+    400622: OilTank163
+    400624: OilTank164
+    400626: OilTank165
+    400628: OilTank166
+    400630: OilTank167
+    400632: OilTank168
+    400634: OilTank169
+    400636: OilTank170
+    400638: OilTank171
+    400640: OilTank172
+    400642: OilTank173
+    400644: OilTank174
+    400646: OilTank175
+    400648: OilTank176
+    400650: OilTank177
+    400652: OilTank178
+    400654: OilTank179
+    400656: OilTank180
+    400658: OilTank181
+    400660: OilTank182
+    400662: OilTank183
+    400664: OilTank184
+    400666: OilTank185
+    400668: OilTank186
+    400670: OilTank187
+    400672: OilTank188
+    400674: OilTank189
+    400676: OilTank190
+    400678: OilTank191
+    400680: OilTank192
+    400682: OilTank193
+    400684: OilTank194
+    400686: OilTank195
+    400688: OilTank196
+    400690: OilTank197
+    400692: OilTank198
+    400694: OilTank199
+    400696: OilTank200
+    400698: OilTank201
+    400700: OilTank202
+    400702: OilTank203
+    400704: OilTank204
+    400706: OilTank205
+    400708: OilTank206
+    400710: OilTank207
+    400712: OilTank208
+    400714: OilTank209
+    400716: OilTank210
+    400718: OilTank211
+    400720: OilTank212
+    400722: OilTank213
+    400724: OilTank214
+    400726: OilTank215
+    400728: OilTank216
+    400730: OilTank217
+    400732: OilTank218
+    400734: OilTank219
+    400736: OilTank220
+    400738: OilTank221
+    400740: OilTank222
+    400742: OilTank223
+    400744: OilTank224
+    400746: OilTank225
+    400748: OilTank226
+    400750: OilTank227
+    400752: OilTank228
+    400754: OilTank229
+    400756: OilTank230
+    400758: OilTank231
+    400760: OilTank232
+    400762: OilTank233
+    400764: OilTank234
+    400766: OilTank235
+    400768: OilTank236
+    400770: OilTank237
+    400772: OilTank238
+    400774: OilTank239
+    400776: OilTank240
+    400778: OilTank241
+    400780: OilTank242
+    400782: OilTank243
+    400784: OilTank244
+    400786: OilTank245
+    400788: OilTank246
+    400790: OilTank247
+    400792: OilTank248
+    400794: OilTank249
+    400796: OilTank250
+    400798: OilTank251
+    400800: OilTank252
+    400802: OilTank253
+    400804: OilTank254
+    400806: OilTank255
+    400808: OilTank256
+    400810: OilTank257
+    400812: OilTank258
+    400814: OilTank259
+    400816: OilTank260
+    400818: OilTank261
+    400820: OilTank262
+    400822: OilTank263
+    400824: OilTank264
+    400826: OilTank265
+    400828: OilTank266
+    400830: OilTank267
+    400832: OilTank268
+    400834: OilTank269
+    400836: OilTank270
+    400838: OilTank271
+    400840: OilTank272
+    400842: OilTank273
+    400844: OilTank274
+    400846: OilTank275
+    400848: OilTank276
+    400850: OilTank277
+    400852: OilTank278
+    400854: OilTank279
+    400856: OilTank280
+    400858: OilTank281
+    400860: OilTank282
+    400862: OilTank283
+    400864: OilTank284
+    400866: OilTank285
+    400868: OilTank286
+    400870: OilTank287
+    400872: OilTank288
+    400874: OilTank289
+    400876: OilTank290
+    400878: OilTank291
+    400880: OilTank292
+    400882: OilTank293
+    400884: OilTank294
+    400886: OilTank295
+    400888: OilTank296
+    400890: OilTank297
+    400892: OilTank298
+    400894: OilTank299
+    400896: OilTank300
+    400898: OilTank301
+    400900: OilTank302
+    400902: OilTank303
+    400904: OilTank304
+    400906: OilTank305
+    400908: OilTank306
+    400910: OilTank307
+    400912: OilTank308
+    400914: OilTank309
+    400916: OilTank310
+    400918: OilTank311
+    400920: OilTank312
+    400922: OilTank313
+    400924: OilTank314
+    400926: OilTank315
+    400928: OilTank316
+    400930: OilTank317
+    400932: OilTank318
+    400934: OilTank319
+    400936: OilTank320
+    400938: OilTank321
+    400940: OilTank322
+    400942: OilTank323
+    400944: OilTank324
+    400946: OilTank325
+    400948: OilTank326
+    400950: OilTank327
+    400952: OilTank328
+    400954: OilTank329
+    400956: OilTank330
+    400958: OilTank331
+    400960: OilTank332
+    400962: OilTank333
+    400964: OilTank334
+    400966: OilTank335
+    400968: OilTank336
+    400970: OilTank337
+    400972: OilTank338
+    400974: OilTank339
+    400976: OilTank340
+    400978: OilTank341
+    400980: OilTank342
+    400982: OilTank343
+    400984: OilTank344
+    400986: OilTank345
+    400988: OilTank346
+    400990: OilTank347
+    400992: OilTank348
+    400994: OilTank349
+    400996: OilTank350
+    400998: OilTank351
+    401000: OilTank352
+    401002: OilTank353
+    401004: OilTank354
+    401006: OilTank355
+    401008: OilTank356
+    401010: OilTank357
+    401012: OilTank358
+    401014: OilTank359
+    401016: OilTank360
+    401018: OilTank361
+    401020: OilTank362
+    401022: OilTank363
+    401024: OilTank364
+    401026: OilTank365
+    401028: OilTank366
+    401030: OilTank367
+    401032: OilTank368
+    401034: OilTank369
+    401036: OilTank370
+    401038: OilTank371
+    401040: OilTank372
+    401042: OilTank373
+    401044: OilTank374
+    401046: OilTank375
+    401048: OilTank376
+    401050: OilTank377
+    401052: OilTank378
+    401054: OilTank379
+    401056: OilTank380
+    401058: OilTank381
+    401060: OilTank382
+    401062: OilTank383
+    401064: OilTank384
+    401066: OilTank385
+    401068: OilTank386
+    401070: OilTank387
+    401072: OilTank388
+    401074: OilTank389
+    401076: OilTank390
+    401078: OilTank391
+    401080: OilTank392
+    401082: OilTank393
+    401084: OilTank394
+    401086: OilTank395
+    401088: OilTank396
+    401090: OilTank397
+    401092: OilTank398
+    401094: OilTank399
+    401096: OilTank400
+    401098: OilTank401
+    401100: //RootNode
+    401102: Tube001
+    401104: Tube002
+    401106: Tube003
+    401108: Tube004
+    401110: Tube005
+    401112: Tube006
+    401114: Tube007
+    401116: Tube008
+    401118: Tube009
+    401120: Tube010
+    401122: Tube011
+    401124: Tube012
+    401126: Tube013
+    401128: Tube014
+    401130: Tube015
+    401132: Tube016
+    401134: Tube017
+    401136: Tube018
+    401138: Tube019
+    401140: Tube020
+    401142: Tube021
+    401144: Tube022
+    401146: Tube023
+    401148: Tube024
+    401150: Tube025
+    401152: Tube026
+    401154: Tube027
+    401156: Tube028
+    401158: Tube029
+    401160: Tube030
+    401162: Tube031
+    401164: Tube032
+    401166: Tube033
+    401168: Tube034
+    401170: Tube035
+    401172: Tube036
+    401174: Tube037
+    401176: Tube038
+    401178: Tube039
+    401180: Tube040
+    401182: Tube041
+    401184: Tube042
+    401186: Tube043
+    401188: Tube044
+    401190: Tube045
+    401192: Tube046
+    401194: Tube047
+    401196: Tube048
+    401198: Tube049
+    401200: Tube050
+    2300000: OilTank001
+    2300002: OilTank003
+    2300004: OilTank004
+    2300006: OilTank005
+    2300008: OilTank006
+    2300010: OilTank007
+    2300012: OilTank008
+    2300014: OilTank009
+    2300016: OilTank010
+    2300018: OilTank011
+    2300020: OilTank012
+    2300022: OilTank013
+    2300024: OilTank014
+    2300026: OilTank015
+    2300028: OilTank016
+    2300030: OilTank017
+    2300032: OilTank018
+    2300034: OilTank019
+    2300036: OilTank020
+    2300038: OilTank021
+    2300040: OilTank022
+    2300042: OilTank023
+    2300044: OilTank024
+    2300046: OilTank025
+    2300048: OilTank026
+    2300050: OilTank027
+    2300052: OilTank028
+    2300054: OilTank029
+    2300056: OilTank030
+    2300058: OilTank031
+    2300060: OilTank032
+    2300062: OilTank033
+    2300064: OilTank034
+    2300066: OilTank035
+    2300068: OilTank036
+    2300070: OilTank037
+    2300072: OilTank038
+    2300074: OilTank039
+    2300076: OilTank040
+    2300078: OilTank041
+    2300080: OilTank042
+    2300082: OilTank043
+    2300084: OilTank044
+    2300086: OilTank045
+    2300088: OilTank046
+    2300090: OilTank047
+    2300092: OilTank048
+    2300094: OilTank049
+    2300096: OilTank050
+    2300098: OilTank051
+    2300100: OilTank052
+    2300102: OilTank053
+    2300104: OilTank054
+    2300106: OilTank055
+    2300108: OilTank056
+    2300110: OilTank057
+    2300112: OilTank058
+    2300114: OilTank059
+    2300116: OilTank060
+    2300118: OilTank061
+    2300120: OilTank062
+    2300122: OilTank063
+    2300124: OilTank064
+    2300126: OilTank065
+    2300128: OilTank066
+    2300130: OilTank067
+    2300132: OilTank068
+    2300134: OilTank069
+    2300136: OilTank070
+    2300138: OilTank071
+    2300140: OilTank072
+    2300142: OilTank073
+    2300144: OilTank074
+    2300146: OilTank075
+    2300148: OilTank076
+    2300150: OilTank077
+    2300152: OilTank078
+    2300154: OilTank079
+    2300156: OilTank080
+    2300158: OilTank081
+    2300160: OilTank082
+    2300162: OilTank083
+    2300164: OilTank084
+    2300166: OilTank085
+    2300168: OilTank086
+    2300170: OilTank087
+    2300172: OilTank088
+    2300174: OilTank089
+    2300176: OilTank090
+    2300178: OilTank091
+    2300180: OilTank092
+    2300182: OilTank093
+    2300184: OilTank094
+    2300186: OilTank095
+    2300188: OilTank096
+    2300190: OilTank097
+    2300192: OilTank098
+    2300194: OilTank099
+    2300196: OilTank100
+    2300198: OilTank101
+    2300200: OilTank102
+    2300202: OilTank103
+    2300204: OilTank104
+    2300206: OilTank105
+    2300208: OilTank106
+    2300210: OilTank107
+    2300212: OilTank108
+    2300214: OilTank109
+    2300216: OilTank110
+    2300218: OilTank111
+    2300220: OilTank112
+    2300222: OilTank113
+    2300224: OilTank114
+    2300226: OilTank115
+    2300228: OilTank116
+    2300230: OilTank117
+    2300232: OilTank118
+    2300234: OilTank119
+    2300236: OilTank120
+    2300238: OilTank121
+    2300240: OilTank122
+    2300242: OilTank123
+    2300244: OilTank124
+    2300246: OilTank125
+    2300248: OilTank126
+    2300250: OilTank127
+    2300252: OilTank128
+    2300254: OilTank129
+    2300256: OilTank130
+    2300258: OilTank131
+    2300260: OilTank132
+    2300262: OilTank133
+    2300264: OilTank134
+    2300266: OilTank135
+    2300268: OilTank136
+    2300270: OilTank137
+    2300272: OilTank138
+    2300274: OilTank139
+    2300276: OilTank140
+    2300278: OilTank141
+    2300280: OilTank142
+    2300282: OilTank143
+    2300284: OilTank144
+    2300286: OilTank145
+    2300288: OilTank146
+    2300290: OilTank147
+    2300292: OilTank148
+    2300294: OilTank149
+    2300296: OilTank150
+    2300298: OilTank151
+    2300300: OilTank152
+    2300302: OilTank153
+    2300304: OilTank154
+    2300306: OilTank155
+    2300308: OilTank156
+    2300310: OilTank157
+    2300312: OilTank158
+    2300314: OilTank159
+    2300316: OilTank160
+    2300318: OilTank161
+    2300320: OilTank162
+    2300322: OilTank163
+    2300324: OilTank164
+    2300326: OilTank165
+    2300328: OilTank166
+    2300330: OilTank167
+    2300332: OilTank168
+    2300334: OilTank169
+    2300336: OilTank170
+    2300338: OilTank171
+    2300340: OilTank172
+    2300342: OilTank173
+    2300344: OilTank174
+    2300346: OilTank175
+    2300348: OilTank176
+    2300350: OilTank177
+    2300352: OilTank178
+    2300354: OilTank179
+    2300356: OilTank180
+    2300358: OilTank181
+    2300360: OilTank182
+    2300362: OilTank183
+    2300364: OilTank184
+    2300366: OilTank185
+    2300368: OilTank186
+    2300370: OilTank187
+    2300372: OilTank188
+    2300374: OilTank189
+    2300376: OilTank190
+    2300378: OilTank191
+    2300380: OilTank192
+    2300382: OilTank193
+    2300384: OilTank194
+    2300386: OilTank195
+    2300388: OilTank196
+    2300390: OilTank197
+    2300392: OilTank198
+    2300394: OilTank199
+    2300396: OilTank200
+    2300398: OilTank201
+    2300400: OilTank202
+    2300402: OilTank203
+    2300404: OilTank204
+    2300406: OilTank205
+    2300408: OilTank206
+    2300410: OilTank207
+    2300412: OilTank208
+    2300414: OilTank209
+    2300416: OilTank210
+    2300418: OilTank211
+    2300420: OilTank212
+    2300422: OilTank213
+    2300424: OilTank214
+    2300426: OilTank215
+    2300428: OilTank216
+    2300430: OilTank217
+    2300432: OilTank218
+    2300434: OilTank219
+    2300436: OilTank220
+    2300438: OilTank221
+    2300440: OilTank222
+    2300442: OilTank223
+    2300444: OilTank224
+    2300446: OilTank225
+    2300448: OilTank226
+    2300450: OilTank227
+    2300452: OilTank228
+    2300454: OilTank229
+    2300456: OilTank230
+    2300458: OilTank231
+    2300460: OilTank232
+    2300462: OilTank233
+    2300464: OilTank234
+    2300466: OilTank235
+    2300468: OilTank236
+    2300470: OilTank237
+    2300472: OilTank238
+    2300474: OilTank239
+    2300476: OilTank240
+    2300478: OilTank241
+    2300480: OilTank242
+    2300482: OilTank243
+    2300484: OilTank244
+    2300486: OilTank245
+    2300488: OilTank246
+    2300490: OilTank247
+    2300492: OilTank248
+    2300494: OilTank249
+    2300496: OilTank250
+    2300498: OilTank251
+    2300500: OilTank252
+    2300502: OilTank253
+    2300504: OilTank254
+    2300506: OilTank255
+    2300508: OilTank256
+    2300510: OilTank257
+    2300512: OilTank258
+    2300514: OilTank259
+    2300516: OilTank260
+    2300518: OilTank261
+    2300520: OilTank262
+    2300522: OilTank263
+    2300524: OilTank264
+    2300526: OilTank265
+    2300528: OilTank266
+    2300530: OilTank267
+    2300532: OilTank268
+    2300534: OilTank269
+    2300536: OilTank270
+    2300538: OilTank271
+    2300540: OilTank272
+    2300542: OilTank273
+    2300544: OilTank274
+    2300546: OilTank275
+    2300548: OilTank276
+    2300550: OilTank277
+    2300552: OilTank278
+    2300554: OilTank279
+    2300556: OilTank280
+    2300558: OilTank281
+    2300560: OilTank282
+    2300562: OilTank283
+    2300564: OilTank284
+    2300566: OilTank285
+    2300568: OilTank286
+    2300570: OilTank287
+    2300572: OilTank288
+    2300574: OilTank289
+    2300576: OilTank290
+    2300578: OilTank291
+    2300580: OilTank292
+    2300582: OilTank293
+    2300584: OilTank294
+    2300586: OilTank295
+    2300588: OilTank296
+    2300590: OilTank297
+    2300592: OilTank298
+    2300594: OilTank299
+    2300596: OilTank300
+    2300598: OilTank301
+    2300600: OilTank302
+    2300602: OilTank303
+    2300604: OilTank304
+    2300606: OilTank305
+    2300608: OilTank306
+    2300610: OilTank307
+    2300612: OilTank308
+    2300614: OilTank309
+    2300616: OilTank310
+    2300618: OilTank311
+    2300620: OilTank312
+    2300622: OilTank313
+    2300624: OilTank314
+    2300626: OilTank315
+    2300628: OilTank316
+    2300630: OilTank317
+    2300632: OilTank318
+    2300634: OilTank319
+    2300636: OilTank320
+    2300638: OilTank321
+    2300640: OilTank322
+    2300642: OilTank323
+    2300644: OilTank324
+    2300646: OilTank325
+    2300648: OilTank326
+    2300650: OilTank327
+    2300652: OilTank328
+    2300654: OilTank329
+    2300656: OilTank330
+    2300658: OilTank331
+    2300660: OilTank332
+    2300662: OilTank333
+    2300664: OilTank334
+    2300666: OilTank335
+    2300668: OilTank336
+    2300670: OilTank337
+    2300672: OilTank338
+    2300674: OilTank339
+    2300676: OilTank340
+    2300678: OilTank341
+    2300680: OilTank342
+    2300682: OilTank343
+    2300684: OilTank344
+    2300686: OilTank345
+    2300688: OilTank346
+    2300690: OilTank347
+    2300692: OilTank348
+    2300694: OilTank349
+    2300696: OilTank350
+    2300698: OilTank351
+    2300700: OilTank352
+    2300702: OilTank353
+    2300704: OilTank354
+    2300706: OilTank355
+    2300708: OilTank356
+    2300710: OilTank357
+    2300712: OilTank358
+    2300714: OilTank359
+    2300716: OilTank360
+    2300718: OilTank361
+    2300720: OilTank362
+    2300722: OilTank363
+    2300724: OilTank364
+    2300726: OilTank365
+    2300728: OilTank366
+    2300730: OilTank367
+    2300732: OilTank368
+    2300734: OilTank369
+    2300736: OilTank370
+    2300738: OilTank371
+    2300740: OilTank372
+    2300742: OilTank373
+    2300744: OilTank374
+    2300746: OilTank375
+    2300748: OilTank376
+    2300750: OilTank377
+    2300752: OilTank378
+    2300754: OilTank379
+    2300756: OilTank380
+    2300758: OilTank381
+    2300760: OilTank382
+    2300762: OilTank383
+    2300764: OilTank384
+    2300766: OilTank385
+    2300768: OilTank386
+    2300770: OilTank387
+    2300772: OilTank388
+    2300774: OilTank389
+    2300776: OilTank390
+    2300778: OilTank391
+    2300780: OilTank392
+    2300782: OilTank393
+    2300784: OilTank394
+    2300786: OilTank395
+    2300788: OilTank396
+    2300790: OilTank397
+    2300792: OilTank398
+    2300794: OilTank399
+    2300796: OilTank400
+    2300798: OilTank401
+    2300800: Tube001
+    2300802: Tube002
+    2300804: Tube003
+    2300806: Tube004
+    2300808: Tube005
+    2300810: Tube006
+    2300812: Tube007
+    2300814: Tube008
+    2300816: Tube009
+    2300818: Tube010
+    2300820: Tube011
+    2300822: Tube012
+    2300824: Tube013
+    2300826: Tube014
+    2300828: Tube015
+    2300830: Tube016
+    2300832: Tube017
+    2300834: Tube018
+    2300836: Tube019
+    2300838: Tube020
+    2300840: Tube021
+    2300842: Tube022
+    2300844: Tube023
+    2300846: Tube024
+    2300848: Tube025
+    2300850: Tube026
+    2300852: Tube027
+    2300854: Tube028
+    2300856: Tube029
+    2300858: Tube030
+    2300860: Tube031
+    2300862: Tube032
+    2300864: Tube033
+    2300866: Tube034
+    2300868: Tube035
+    2300870: Tube036
+    2300872: Tube037
+    2300874: Tube038
+    2300876: Tube039
+    2300878: Tube040
+    2300880: Tube041
+    2300882: Tube042
+    2300884: Tube043
+    2300886: Tube044
+    2300888: Tube045
+    2300890: Tube046
+    2300892: Tube047
+    2300894: Tube048
+    2300896: Tube049
+    2300898: Tube050
+    3300000: OilTank001
+    3300002: OilTank003
+    3300004: OilTank004
+    3300006: OilTank005
+    3300008: OilTank006
+    3300010: OilTank007
+    3300012: OilTank008
+    3300014: OilTank009
+    3300016: OilTank010
+    3300018: OilTank011
+    3300020: OilTank012
+    3300022: OilTank013
+    3300024: OilTank014
+    3300026: OilTank015
+    3300028: OilTank016
+    3300030: OilTank017
+    3300032: OilTank018
+    3300034: OilTank019
+    3300036: OilTank020
+    3300038: OilTank021
+    3300040: OilTank022
+    3300042: OilTank023
+    3300044: OilTank024
+    3300046: OilTank025
+    3300048: OilTank026
+    3300050: OilTank027
+    3300052: OilTank028
+    3300054: OilTank029
+    3300056: OilTank030
+    3300058: OilTank031
+    3300060: OilTank032
+    3300062: OilTank033
+    3300064: OilTank034
+    3300066: OilTank035
+    3300068: OilTank036
+    3300070: OilTank037
+    3300072: OilTank038
+    3300074: OilTank039
+    3300076: OilTank040
+    3300078: OilTank041
+    3300080: OilTank042
+    3300082: OilTank043
+    3300084: OilTank044
+    3300086: OilTank045
+    3300088: OilTank046
+    3300090: OilTank047
+    3300092: OilTank048
+    3300094: OilTank049
+    3300096: OilTank050
+    3300098: OilTank051
+    3300100: OilTank052
+    3300102: OilTank053
+    3300104: OilTank054
+    3300106: OilTank055
+    3300108: OilTank056
+    3300110: OilTank057
+    3300112: OilTank058
+    3300114: OilTank059
+    3300116: OilTank060
+    3300118: OilTank061
+    3300120: OilTank062
+    3300122: OilTank063
+    3300124: OilTank064
+    3300126: OilTank065
+    3300128: OilTank066
+    3300130: OilTank067
+    3300132: OilTank068
+    3300134: OilTank069
+    3300136: OilTank070
+    3300138: OilTank071
+    3300140: OilTank072
+    3300142: OilTank073
+    3300144: OilTank074
+    3300146: OilTank075
+    3300148: OilTank076
+    3300150: OilTank077
+    3300152: OilTank078
+    3300154: OilTank079
+    3300156: OilTank080
+    3300158: OilTank081
+    3300160: OilTank082
+    3300162: OilTank083
+    3300164: OilTank084
+    3300166: OilTank085
+    3300168: OilTank086
+    3300170: OilTank087
+    3300172: OilTank088
+    3300174: OilTank089
+    3300176: OilTank090
+    3300178: OilTank091
+    3300180: OilTank092
+    3300182: OilTank093
+    3300184: OilTank094
+    3300186: OilTank095
+    3300188: OilTank096
+    3300190: OilTank097
+    3300192: OilTank098
+    3300194: OilTank099
+    3300196: OilTank100
+    3300198: OilTank101
+    3300200: OilTank102
+    3300202: OilTank103
+    3300204: OilTank104
+    3300206: OilTank105
+    3300208: OilTank106
+    3300210: OilTank107
+    3300212: OilTank108
+    3300214: OilTank109
+    3300216: OilTank110
+    3300218: OilTank111
+    3300220: OilTank112
+    3300222: OilTank113
+    3300224: OilTank114
+    3300226: OilTank115
+    3300228: OilTank116
+    3300230: OilTank117
+    3300232: OilTank118
+    3300234: OilTank119
+    3300236: OilTank120
+    3300238: OilTank121
+    3300240: OilTank122
+    3300242: OilTank123
+    3300244: OilTank124
+    3300246: OilTank125
+    3300248: OilTank126
+    3300250: OilTank127
+    3300252: OilTank128
+    3300254: OilTank129
+    3300256: OilTank130
+    3300258: OilTank131
+    3300260: OilTank132
+    3300262: OilTank133
+    3300264: OilTank134
+    3300266: OilTank135
+    3300268: OilTank136
+    3300270: OilTank137
+    3300272: OilTank138
+    3300274: OilTank139
+    3300276: OilTank140
+    3300278: OilTank141
+    3300280: OilTank142
+    3300282: OilTank143
+    3300284: OilTank144
+    3300286: OilTank145
+    3300288: OilTank146
+    3300290: OilTank147
+    3300292: OilTank148
+    3300294: OilTank149
+    3300296: OilTank150
+    3300298: OilTank151
+    3300300: OilTank152
+    3300302: OilTank153
+    3300304: OilTank154
+    3300306: OilTank155
+    3300308: OilTank156
+    3300310: OilTank157
+    3300312: OilTank158
+    3300314: OilTank159
+    3300316: OilTank160
+    3300318: OilTank161
+    3300320: OilTank162
+    3300322: OilTank163
+    3300324: OilTank164
+    3300326: OilTank165
+    3300328: OilTank166
+    3300330: OilTank167
+    3300332: OilTank168
+    3300334: OilTank169
+    3300336: OilTank170
+    3300338: OilTank171
+    3300340: OilTank172
+    3300342: OilTank173
+    3300344: OilTank174
+    3300346: OilTank175
+    3300348: OilTank176
+    3300350: OilTank177
+    3300352: OilTank178
+    3300354: OilTank179
+    3300356: OilTank180
+    3300358: OilTank181
+    3300360: OilTank182
+    3300362: OilTank183
+    3300364: OilTank184
+    3300366: OilTank185
+    3300368: OilTank186
+    3300370: OilTank187
+    3300372: OilTank188
+    3300374: OilTank189
+    3300376: OilTank190
+    3300378: OilTank191
+    3300380: OilTank192
+    3300382: OilTank193
+    3300384: OilTank194
+    3300386: OilTank195
+    3300388: OilTank196
+    3300390: OilTank197
+    3300392: OilTank198
+    3300394: OilTank199
+    3300396: OilTank200
+    3300398: OilTank201
+    3300400: OilTank202
+    3300402: OilTank203
+    3300404: OilTank204
+    3300406: OilTank205
+    3300408: OilTank206
+    3300410: OilTank207
+    3300412: OilTank208
+    3300414: OilTank209
+    3300416: OilTank210
+    3300418: OilTank211
+    3300420: OilTank212
+    3300422: OilTank213
+    3300424: OilTank214
+    3300426: OilTank215
+    3300428: OilTank216
+    3300430: OilTank217
+    3300432: OilTank218
+    3300434: OilTank219
+    3300436: OilTank220
+    3300438: OilTank221
+    3300440: OilTank222
+    3300442: OilTank223
+    3300444: OilTank224
+    3300446: OilTank225
+    3300448: OilTank226
+    3300450: OilTank227
+    3300452: OilTank228
+    3300454: OilTank229
+    3300456: OilTank230
+    3300458: OilTank231
+    3300460: OilTank232
+    3300462: OilTank233
+    3300464: OilTank234
+    3300466: OilTank235
+    3300468: OilTank236
+    3300470: OilTank237
+    3300472: OilTank238
+    3300474: OilTank239
+    3300476: OilTank240
+    3300478: OilTank241
+    3300480: OilTank242
+    3300482: OilTank243
+    3300484: OilTank244
+    3300486: OilTank245
+    3300488: OilTank246
+    3300490: OilTank247
+    3300492: OilTank248
+    3300494: OilTank249
+    3300496: OilTank250
+    3300498: OilTank251
+    3300500: OilTank252
+    3300502: OilTank253
+    3300504: OilTank254
+    3300506: OilTank255
+    3300508: OilTank256
+    3300510: OilTank257
+    3300512: OilTank258
+    3300514: OilTank259
+    3300516: OilTank260
+    3300518: OilTank261
+    3300520: OilTank262
+    3300522: OilTank263
+    3300524: OilTank264
+    3300526: OilTank265
+    3300528: OilTank266
+    3300530: OilTank267
+    3300532: OilTank268
+    3300534: OilTank269
+    3300536: OilTank270
+    3300538: OilTank271
+    3300540: OilTank272
+    3300542: OilTank273
+    3300544: OilTank274
+    3300546: OilTank275
+    3300548: OilTank276
+    3300550: OilTank277
+    3300552: OilTank278
+    3300554: OilTank279
+    3300556: OilTank280
+    3300558: OilTank281
+    3300560: OilTank282
+    3300562: OilTank283
+    3300564: OilTank284
+    3300566: OilTank285
+    3300568: OilTank286
+    3300570: OilTank287
+    3300572: OilTank288
+    3300574: OilTank289
+    3300576: OilTank290
+    3300578: OilTank291
+    3300580: OilTank292
+    3300582: OilTank293
+    3300584: OilTank294
+    3300586: OilTank295
+    3300588: OilTank296
+    3300590: OilTank297
+    3300592: OilTank298
+    3300594: OilTank299
+    3300596: OilTank300
+    3300598: OilTank301
+    3300600: OilTank302
+    3300602: OilTank303
+    3300604: OilTank304
+    3300606: OilTank305
+    3300608: OilTank306
+    3300610: OilTank307
+    3300612: OilTank308
+    3300614: OilTank309
+    3300616: OilTank310
+    3300618: OilTank311
+    3300620: OilTank312
+    3300622: OilTank313
+    3300624: OilTank314
+    3300626: OilTank315
+    3300628: OilTank316
+    3300630: OilTank317
+    3300632: OilTank318
+    3300634: OilTank319
+    3300636: OilTank320
+    3300638: OilTank321
+    3300640: OilTank322
+    3300642: OilTank323
+    3300644: OilTank324
+    3300646: OilTank325
+    3300648: OilTank326
+    3300650: OilTank327
+    3300652: OilTank328
+    3300654: OilTank329
+    3300656: OilTank330
+    3300658: OilTank331
+    3300660: OilTank332
+    3300662: OilTank333
+    3300664: OilTank334
+    3300666: OilTank335
+    3300668: OilTank336
+    3300670: OilTank337
+    3300672: OilTank338
+    3300674: OilTank339
+    3300676: OilTank340
+    3300678: OilTank341
+    3300680: OilTank342
+    3300682: OilTank343
+    3300684: OilTank344
+    3300686: OilTank345
+    3300688: OilTank346
+    3300690: OilTank347
+    3300692: OilTank348
+    3300694: OilTank349
+    3300696: OilTank350
+    3300698: OilTank351
+    3300700: OilTank352
+    3300702: OilTank353
+    3300704: OilTank354
+    3300706: OilTank355
+    3300708: OilTank356
+    3300710: OilTank357
+    3300712: OilTank358
+    3300714: OilTank359
+    3300716: OilTank360
+    3300718: OilTank361
+    3300720: OilTank362
+    3300722: OilTank363
+    3300724: OilTank364
+    3300726: OilTank365
+    3300728: OilTank366
+    3300730: OilTank367
+    3300732: OilTank368
+    3300734: OilTank369
+    3300736: OilTank370
+    3300738: OilTank371
+    3300740: OilTank372
+    3300742: OilTank373
+    3300744: OilTank374
+    3300746: OilTank375
+    3300748: OilTank376
+    3300750: OilTank377
+    3300752: OilTank378
+    3300754: OilTank379
+    3300756: OilTank380
+    3300758: OilTank381
+    3300760: OilTank382
+    3300762: OilTank383
+    3300764: OilTank384
+    3300766: OilTank385
+    3300768: OilTank386
+    3300770: OilTank387
+    3300772: OilTank388
+    3300774: OilTank389
+    3300776: OilTank390
+    3300778: OilTank391
+    3300780: OilTank392
+    3300782: OilTank393
+    3300784: OilTank394
+    3300786: OilTank395
+    3300788: OilTank396
+    3300790: OilTank397
+    3300792: OilTank398
+    3300794: OilTank399
+    3300796: OilTank400
+    3300798: OilTank401
+    3300800: Tube001
+    3300802: Tube002
+    3300804: Tube003
+    3300806: Tube004
+    3300808: Tube005
+    3300810: Tube006
+    3300812: Tube007
+    3300814: Tube008
+    3300816: Tube009
+    3300818: Tube010
+    3300820: Tube011
+    3300822: Tube012
+    3300824: Tube013
+    3300826: Tube014
+    3300828: Tube015
+    3300830: Tube016
+    3300832: Tube017
+    3300834: Tube018
+    3300836: Tube019
+    3300838: Tube020
+    3300840: Tube021
+    3300842: Tube022
+    3300844: Tube023
+    3300846: Tube024
+    3300848: Tube025
+    3300850: Tube026
+    3300852: Tube027
+    3300854: Tube028
+    3300856: Tube029
+    3300858: Tube030
+    3300860: Tube031
+    3300862: Tube032
+    3300864: Tube033
+    3300866: Tube034
+    3300868: Tube035
+    3300870: Tube036
+    3300872: Tube037
+    3300874: Tube038
+    3300876: Tube039
+    3300878: Tube040
+    3300880: Tube041
+    3300882: Tube042
+    3300884: Tube043
+    3300886: Tube044
+    3300888: Tube045
+    3300890: Tube046
+    3300892: Tube047
+    3300894: Tube048
+    3300896: Tube049
+    3300898: Tube050
+    4300000: Tube001
+    4300002: OilTank003
+    4300004: OilTank004
+    4300006: OilTank006
+    4300008: OilTank001
+    4300010: OilTank005
+    4300012: OilTank007
+    4300014: OilTank008
+    4300016: OilTank009
+    4300018: Tube002
+    4300020: OilTank010
+    4300022: OilTank011
+    4300024: OilTank012
+    4300026: OilTank013
+    4300028: OilTank014
+    4300030: OilTank015
+    4300032: OilTank016
+    4300034: OilTank017
+    4300036: Tube003
+    4300038: OilTank018
+    4300040: OilTank019
+    4300042: OilTank020
+    4300044: OilTank021
+    4300046: OilTank022
+    4300048: OilTank023
+    4300050: OilTank024
+    4300052: OilTank025
+    4300054: Tube004
+    4300056: OilTank026
+    4300058: OilTank027
+    4300060: OilTank028
+    4300062: OilTank029
+    4300064: OilTank030
+    4300066: OilTank031
+    4300068: OilTank032
+    4300070: OilTank033
+    4300072: Tube005
+    4300074: OilTank034
+    4300076: OilTank035
+    4300078: OilTank036
+    4300080: OilTank037
+    4300082: OilTank038
+    4300084: OilTank039
+    4300086: OilTank040
+    4300088: OilTank041
+    4300090: Tube006
+    4300092: OilTank042
+    4300094: OilTank043
+    4300096: OilTank044
+    4300098: OilTank045
+    4300100: OilTank046
+    4300102: OilTank047
+    4300104: OilTank048
+    4300106: OilTank049
+    4300108: Tube007
+    4300110: OilTank050
+    4300112: OilTank051
+    4300114: OilTank052
+    4300116: OilTank053
+    4300118: OilTank054
+    4300120: OilTank055
+    4300122: OilTank056
+    4300124: OilTank057
+    4300126: Tube008
+    4300128: OilTank058
+    4300130: OilTank059
+    4300132: OilTank060
+    4300134: OilTank061
+    4300136: OilTank062
+    4300138: OilTank063
+    4300140: OilTank064
+    4300142: OilTank065
+    4300144: Tube009
+    4300146: OilTank066
+    4300148: OilTank067
+    4300150: OilTank068
+    4300152: OilTank069
+    4300154: OilTank070
+    4300156: OilTank071
+    4300158: OilTank072
+    4300160: OilTank073
+    4300162: Tube010
+    4300164: OilTank074
+    4300166: OilTank075
+    4300168: OilTank076
+    4300170: OilTank077
+    4300172: OilTank078
+    4300174: OilTank079
+    4300176: OilTank080
+    4300178: OilTank081
+    4300180: Tube011
+    4300182: OilTank082
+    4300184: OilTank083
+    4300186: OilTank084
+    4300188: OilTank085
+    4300190: OilTank086
+    4300192: OilTank087
+    4300194: OilTank088
+    4300196: OilTank089
+    4300198: Tube012
+    4300200: OilTank090
+    4300202: OilTank091
+    4300204: OilTank092
+    4300206: OilTank093
+    4300208: OilTank094
+    4300210: OilTank095
+    4300212: OilTank096
+    4300214: OilTank097
+    4300216: Tube013
+    4300218: OilTank098
+    4300220: OilTank099
+    4300222: OilTank100
+    4300224: OilTank101
+    4300226: OilTank102
+    4300228: OilTank103
+    4300230: OilTank104
+    4300232: OilTank105
+    4300234: Tube014
+    4300236: OilTank106
+    4300238: OilTank107
+    4300240: OilTank108
+    4300242: OilTank109
+    4300244: OilTank110
+    4300246: OilTank111
+    4300248: OilTank112
+    4300250: OilTank113
+    4300252: Tube015
+    4300254: OilTank114
+    4300256: OilTank115
+    4300258: OilTank116
+    4300260: OilTank117
+    4300262: OilTank118
+    4300264: OilTank119
+    4300266: OilTank120
+    4300268: OilTank121
+    4300270: Tube016
+    4300272: OilTank122
+    4300274: OilTank123
+    4300276: OilTank124
+    4300278: OilTank125
+    4300280: OilTank126
+    4300282: OilTank127
+    4300284: OilTank128
+    4300286: OilTank129
+    4300288: Tube017
+    4300290: OilTank130
+    4300292: OilTank131
+    4300294: OilTank132
+    4300296: OilTank133
+    4300298: OilTank134
+    4300300: OilTank135
+    4300302: OilTank136
+    4300304: OilTank137
+    4300306: Tube018
+    4300308: OilTank138
+    4300310: OilTank139
+    4300312: OilTank140
+    4300314: OilTank141
+    4300316: OilTank142
+    4300318: OilTank143
+    4300320: OilTank144
+    4300322: OilTank145
+    4300324: Tube019
+    4300326: OilTank146
+    4300328: OilTank147
+    4300330: OilTank148
+    4300332: OilTank149
+    4300334: OilTank150
+    4300336: OilTank151
+    4300338: OilTank152
+    4300340: OilTank153
+    4300342: Tube020
+    4300344: OilTank154
+    4300346: OilTank155
+    4300348: OilTank156
+    4300350: OilTank157
+    4300352: OilTank158
+    4300354: OilTank159
+    4300356: OilTank160
+    4300358: OilTank161
+    4300360: Tube021
+    4300362: OilTank162
+    4300364: OilTank163
+    4300366: OilTank164
+    4300368: OilTank165
+    4300370: OilTank166
+    4300372: OilTank167
+    4300374: OilTank168
+    4300376: OilTank169
+    4300378: Tube022
+    4300380: OilTank170
+    4300382: OilTank171
+    4300384: OilTank172
+    4300386: OilTank173
+    4300388: OilTank174
+    4300390: OilTank175
+    4300392: OilTank176
+    4300394: OilTank177
+    4300396: Tube023
+    4300398: OilTank178
+    4300400: OilTank179
+    4300402: OilTank180
+    4300404: OilTank181
+    4300406: OilTank182
+    4300408: OilTank183
+    4300410: OilTank184
+    4300412: OilTank185
+    4300414: Tube024
+    4300416: OilTank186
+    4300418: OilTank187
+    4300420: OilTank188
+    4300422: OilTank189
+    4300424: OilTank190
+    4300426: OilTank191
+    4300428: OilTank192
+    4300430: OilTank193
+    4300432: Tube025
+    4300434: OilTank194
+    4300436: OilTank195
+    4300438: OilTank196
+    4300440: OilTank197
+    4300442: OilTank198
+    4300444: OilTank199
+    4300446: OilTank200
+    4300448: OilTank201
+    4300450: Tube026
+    4300452: OilTank202
+    4300454: OilTank203
+    4300456: OilTank204
+    4300458: OilTank205
+    4300460: OilTank206
+    4300462: OilTank207
+    4300464: OilTank208
+    4300466: OilTank209
+    4300468: Tube027
+    4300470: OilTank210
+    4300472: OilTank211
+    4300474: OilTank212
+    4300476: OilTank213
+    4300478: OilTank214
+    4300480: OilTank215
+    4300482: OilTank216
+    4300484: OilTank217
+    4300486: Tube028
+    4300488: OilTank218
+    4300490: OilTank219
+    4300492: OilTank220
+    4300494: OilTank221
+    4300496: OilTank222
+    4300498: OilTank223
+    4300500: OilTank224
+    4300502: OilTank225
+    4300504: Tube029
+    4300506: OilTank226
+    4300508: OilTank227
+    4300510: OilTank228
+    4300512: OilTank229
+    4300514: OilTank230
+    4300516: OilTank231
+    4300518: OilTank232
+    4300520: OilTank233
+    4300522: Tube030
+    4300524: OilTank234
+    4300526: OilTank235
+    4300528: OilTank236
+    4300530: OilTank237
+    4300532: OilTank238
+    4300534: OilTank239
+    4300536: OilTank240
+    4300538: OilTank241
+    4300540: Tube031
+    4300542: OilTank242
+    4300544: OilTank243
+    4300546: OilTank244
+    4300548: OilTank245
+    4300550: OilTank246
+    4300552: OilTank247
+    4300554: OilTank248
+    4300556: OilTank249
+    4300558: Tube032
+    4300560: OilTank250
+    4300562: OilTank251
+    4300564: OilTank252
+    4300566: OilTank253
+    4300568: OilTank254
+    4300570: OilTank255
+    4300572: OilTank256
+    4300574: OilTank257
+    4300576: Tube033
+    4300578: OilTank258
+    4300580: OilTank259
+    4300582: OilTank260
+    4300584: OilTank261
+    4300586: OilTank262
+    4300588: OilTank263
+    4300590: OilTank264
+    4300592: OilTank265
+    4300594: Tube034
+    4300596: OilTank266
+    4300598: OilTank267
+    4300600: OilTank268
+    4300602: OilTank269
+    4300604: OilTank270
+    4300606: OilTank271
+    4300608: OilTank272
+    4300610: OilTank273
+    4300612: Tube035
+    4300614: OilTank274
+    4300616: OilTank275
+    4300618: OilTank276
+    4300620: OilTank277
+    4300622: OilTank278
+    4300624: OilTank279
+    4300626: OilTank280
+    4300628: OilTank281
+    4300630: Tube036
+    4300632: OilTank282
+    4300634: OilTank283
+    4300636: OilTank284
+    4300638: OilTank285
+    4300640: OilTank286
+    4300642: OilTank287
+    4300644: OilTank288
+    4300646: OilTank289
+    4300648: Tube037
+    4300650: OilTank290
+    4300652: OilTank291
+    4300654: OilTank292
+    4300656: OilTank293
+    4300658: OilTank294
+    4300660: OilTank295
+    4300662: OilTank296
+    4300664: OilTank297
+    4300666: Tube038
+    4300668: OilTank298
+    4300670: OilTank299
+    4300672: OilTank300
+    4300674: OilTank301
+    4300676: OilTank302
+    4300678: OilTank303
+    4300680: OilTank304
+    4300682: OilTank305
+    4300684: Tube039
+    4300686: OilTank306
+    4300688: OilTank307
+    4300690: OilTank308
+    4300692: OilTank309
+    4300694: OilTank310
+    4300696: OilTank311
+    4300698: OilTank312
+    4300700: OilTank313
+    4300702: Tube040
+    4300704: OilTank314
+    4300706: OilTank315
+    4300708: OilTank316
+    4300710: OilTank317
+    4300712: OilTank318
+    4300714: OilTank319
+    4300716: OilTank320
+    4300718: OilTank321
+    4300720: Tube041
+    4300722: OilTank322
+    4300724: OilTank323
+    4300726: OilTank324
+    4300728: OilTank325
+    4300730: OilTank326
+    4300732: OilTank327
+    4300734: OilTank328
+    4300736: OilTank329
+    4300738: Tube042
+    4300740: OilTank330
+    4300742: OilTank331
+    4300744: OilTank332
+    4300746: OilTank333
+    4300748: OilTank334
+    4300750: OilTank335
+    4300752: OilTank336
+    4300754: OilTank337
+    4300756: Tube043
+    4300758: OilTank338
+    4300760: OilTank339
+    4300762: OilTank340
+    4300764: OilTank341
+    4300766: OilTank342
+    4300768: OilTank343
+    4300770: OilTank344
+    4300772: OilTank345
+    4300774: Tube044
+    4300776: OilTank346
+    4300778: OilTank347
+    4300780: OilTank348
+    4300782: OilTank349
+    4300784: OilTank350
+    4300786: OilTank351
+    4300788: OilTank352
+    4300790: OilTank353
+    4300792: Tube045
+    4300794: OilTank354
+    4300796: OilTank355
+    4300798: OilTank356
+    4300800: OilTank357
+    4300802: OilTank358
+    4300804: OilTank359
+    4300806: OilTank360
+    4300808: OilTank361
+    4300810: Tube046
+    4300812: OilTank362
+    4300814: OilTank363
+    4300816: OilTank364
+    4300818: OilTank365
+    4300820: OilTank366
+    4300822: OilTank367
+    4300824: OilTank368
+    4300826: OilTank369
+    4300828: Tube047
+    4300830: OilTank370
+    4300832: OilTank371
+    4300834: OilTank372
+    4300836: OilTank373
+    4300838: OilTank374
+    4300840: OilTank375
+    4300842: OilTank376
+    4300844: OilTank377
+    4300846: Tube048
+    4300848: OilTank378
+    4300850: OilTank379
+    4300852: OilTank380
+    4300854: OilTank381
+    4300856: OilTank382
+    4300858: OilTank383
+    4300860: OilTank384
+    4300862: OilTank385
+    4300864: Tube049
+    4300866: OilTank386
+    4300868: OilTank387
+    4300870: OilTank388
+    4300872: OilTank389
+    4300874: OilTank390
+    4300876: OilTank391
+    4300878: OilTank392
+    4300880: OilTank393
+    4300882: Tube050
+    4300884: OilTank394
+    4300886: OilTank395
+    4300888: OilTank396
+    4300890: OilTank397
+    4300892: OilTank398
+    4300894: OilTank399
+    4300896: OilTank400
+    4300898: OilTank401
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 102
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/Att
+        weight: 1
+      - path: Group001/Att/OilTank001
+        weight: 1
+      - path: Group001/Att/OilTank005
+        weight: 1
+      - path: Group001/Att/OilTank006
+        weight: 1
+      - path: Group001/Att001
+        weight: 1
+      - path: Group001/Att001/OilTank007
+        weight: 1
+      - path: Group001/Att001/OilTank008
+        weight: 1
+      - path: Group001/Att001/OilTank009
+        weight: 1
+      - path: Group001/OilTank003
+        weight: 1
+      - path: Group001/OilTank004
+        weight: 1
+      - path: Group001/Tube001
+        weight: 1
+      - path: Group002
+        weight: 1
+      - path: Group002/Att002
+        weight: 1
+      - path: Group002/Att002/OilTank012
+        weight: 1
+      - path: Group002/Att002/OilTank013
+        weight: 1
+      - path: Group002/Att002/OilTank014
+        weight: 1
+      - path: Group002/Att003
+        weight: 1
+      - path: Group002/Att003/OilTank015
+        weight: 1
+      - path: Group002/Att003/OilTank016
+        weight: 1
+      - path: Group002/Att003/OilTank017
+        weight: 1
+      - path: Group002/OilTank010
+        weight: 1
+      - path: Group002/OilTank011
+        weight: 1
+      - path: Group002/Tube002
+        weight: 1
+      - path: Group003
+        weight: 1
+      - path: Group003/Att004
+        weight: 1
+      - path: Group003/Att004/OilTank020
+        weight: 1
+      - path: Group003/Att004/OilTank021
+        weight: 1
+      - path: Group003/Att004/OilTank022
+        weight: 1
+      - path: Group003/Att005
+        weight: 1
+      - path: Group003/Att005/OilTank023
+        weight: 1
+      - path: Group003/Att005/OilTank024
+        weight: 1
+      - path: Group003/Att005/OilTank025
+        weight: 1
+      - path: Group003/OilTank018
+        weight: 1
+      - path: Group003/OilTank019
+        weight: 1
+      - path: Group003/Tube003
+        weight: 1
+      - path: Group004
+        weight: 1
+      - path: Group004/Att006
+        weight: 1
+      - path: Group004/Att006/OilTank028
+        weight: 1
+      - path: Group004/Att006/OilTank029
+        weight: 1
+      - path: Group004/Att006/OilTank030
+        weight: 1
+      - path: Group004/Att007
+        weight: 1
+      - path: Group004/Att007/OilTank031
+        weight: 1
+      - path: Group004/Att007/OilTank032
+        weight: 1
+      - path: Group004/Att007/OilTank033
+        weight: 1
+      - path: Group004/OilTank026
+        weight: 1
+      - path: Group004/OilTank027
+        weight: 1
+      - path: Group004/Tube004
+        weight: 1
+      - path: Group005
+        weight: 1
+      - path: Group005/Att008
+        weight: 1
+      - path: Group005/Att008/OilTank036
+        weight: 1
+      - path: Group005/Att008/OilTank037
+        weight: 1
+      - path: Group005/Att008/OilTank038
+        weight: 1
+      - path: Group005/Att009
+        weight: 1
+      - path: Group005/Att009/OilTank039
+        weight: 1
+      - path: Group005/Att009/OilTank040
+        weight: 1
+      - path: Group005/Att009/OilTank041
+        weight: 1
+      - path: Group005/OilTank034
+        weight: 1
+      - path: Group005/OilTank035
+        weight: 1
+      - path: Group005/Tube005
+        weight: 1
+      - path: Group006
+        weight: 1
+      - path: Group006/Att010
+        weight: 1
+      - path: Group006/Att010/OilTank044
+        weight: 1
+      - path: Group006/Att010/OilTank045
+        weight: 1
+      - path: Group006/Att010/OilTank046
+        weight: 1
+      - path: Group006/Att011
+        weight: 1
+      - path: Group006/Att011/OilTank047
+        weight: 1
+      - path: Group006/Att011/OilTank048
+        weight: 1
+      - path: Group006/Att011/OilTank049
+        weight: 1
+      - path: Group006/OilTank042
+        weight: 1
+      - path: Group006/OilTank043
+        weight: 1
+      - path: Group006/Tube006
+        weight: 1
+      - path: Group007
+        weight: 1
+      - path: Group007/Att012
+        weight: 1
+      - path: Group007/Att012/OilTank052
+        weight: 1
+      - path: Group007/Att012/OilTank053
+        weight: 1
+      - path: Group007/Att012/OilTank054
+        weight: 1
+      - path: Group007/Att013
+        weight: 1
+      - path: Group007/Att013/OilTank055
+        weight: 1
+      - path: Group007/Att013/OilTank056
+        weight: 1
+      - path: Group007/Att013/OilTank057
+        weight: 1
+      - path: Group007/OilTank050
+        weight: 1
+      - path: Group007/OilTank051
+        weight: 1
+      - path: Group007/Tube007
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Att014
+        weight: 1
+      - path: Group008/Att014/OilTank060
+        weight: 1
+      - path: Group008/Att014/OilTank061
+        weight: 1
+      - path: Group008/Att014/OilTank062
+        weight: 1
+      - path: Group008/Att015
+        weight: 1
+      - path: Group008/Att015/OilTank063
+        weight: 1
+      - path: Group008/Att015/OilTank064
+        weight: 1
+      - path: Group008/Att015/OilTank065
+        weight: 1
+      - path: Group008/OilTank058
+        weight: 1
+      - path: Group008/OilTank059
+        weight: 1
+      - path: Group008/Tube008
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Att016
+        weight: 1
+      - path: Group009/Att016/OilTank068
+        weight: 1
+      - path: Group009/Att016/OilTank069
+        weight: 1
+      - path: Group009/Att016/OilTank070
+        weight: 1
+      - path: Group009/Att017
+        weight: 1
+      - path: Group009/Att017/OilTank071
+        weight: 1
+      - path: Group009/Att017/OilTank072
+        weight: 1
+      - path: Group009/Att017/OilTank073
+        weight: 1
+      - path: Group009/OilTank066
+        weight: 1
+      - path: Group009/OilTank067
+        weight: 1
+      - path: Group009/Tube009
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Att018
+        weight: 1
+      - path: Group010/Att018/OilTank076
+        weight: 1
+      - path: Group010/Att018/OilTank077
+        weight: 1
+      - path: Group010/Att018/OilTank078
+        weight: 1
+      - path: Group010/Att019
+        weight: 1
+      - path: Group010/Att019/OilTank079
+        weight: 1
+      - path: Group010/Att019/OilTank080
+        weight: 1
+      - path: Group010/Att019/OilTank081
+        weight: 1
+      - path: Group010/OilTank074
+        weight: 1
+      - path: Group010/OilTank075
+        weight: 1
+      - path: Group010/Tube010
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Att020
+        weight: 1
+      - path: Group011/Att020/OilTank084
+        weight: 1
+      - path: Group011/Att020/OilTank085
+        weight: 1
+      - path: Group011/Att020/OilTank086
+        weight: 1
+      - path: Group011/Att021
+        weight: 1
+      - path: Group011/Att021/OilTank087
+        weight: 1
+      - path: Group011/Att021/OilTank088
+        weight: 1
+      - path: Group011/Att021/OilTank089
+        weight: 1
+      - path: Group011/OilTank082
+        weight: 1
+      - path: Group011/OilTank083
+        weight: 1
+      - path: Group011/Tube011
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Att022
+        weight: 1
+      - path: Group012/Att022/OilTank092
+        weight: 1
+      - path: Group012/Att022/OilTank093
+        weight: 1
+      - path: Group012/Att022/OilTank094
+        weight: 1
+      - path: Group012/Att023
+        weight: 1
+      - path: Group012/Att023/OilTank095
+        weight: 1
+      - path: Group012/Att023/OilTank096
+        weight: 1
+      - path: Group012/Att023/OilTank097
+        weight: 1
+      - path: Group012/OilTank090
+        weight: 1
+      - path: Group012/OilTank091
+        weight: 1
+      - path: Group012/Tube012
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Att024
+        weight: 1
+      - path: Group013/Att024/OilTank100
+        weight: 1
+      - path: Group013/Att024/OilTank101
+        weight: 1
+      - path: Group013/Att024/OilTank102
+        weight: 1
+      - path: Group013/Att025
+        weight: 1
+      - path: Group013/Att025/OilTank103
+        weight: 1
+      - path: Group013/Att025/OilTank104
+        weight: 1
+      - path: Group013/Att025/OilTank105
+        weight: 1
+      - path: Group013/OilTank098
+        weight: 1
+      - path: Group013/OilTank099
+        weight: 1
+      - path: Group013/Tube013
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Att026
+        weight: 1
+      - path: Group014/Att026/OilTank108
+        weight: 1
+      - path: Group014/Att026/OilTank109
+        weight: 1
+      - path: Group014/Att026/OilTank110
+        weight: 1
+      - path: Group014/Att027
+        weight: 1
+      - path: Group014/Att027/OilTank111
+        weight: 1
+      - path: Group014/Att027/OilTank112
+        weight: 1
+      - path: Group014/Att027/OilTank113
+        weight: 1
+      - path: Group014/OilTank106
+        weight: 1
+      - path: Group014/OilTank107
+        weight: 1
+      - path: Group014/Tube014
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Att028
+        weight: 1
+      - path: Group015/Att028/OilTank116
+        weight: 1
+      - path: Group015/Att028/OilTank117
+        weight: 1
+      - path: Group015/Att028/OilTank118
+        weight: 1
+      - path: Group015/Att029
+        weight: 1
+      - path: Group015/Att029/OilTank119
+        weight: 1
+      - path: Group015/Att029/OilTank120
+        weight: 1
+      - path: Group015/Att029/OilTank121
+        weight: 1
+      - path: Group015/OilTank114
+        weight: 1
+      - path: Group015/OilTank115
+        weight: 1
+      - path: Group015/Tube015
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Att030
+        weight: 1
+      - path: Group016/Att030/OilTank124
+        weight: 1
+      - path: Group016/Att030/OilTank125
+        weight: 1
+      - path: Group016/Att030/OilTank126
+        weight: 1
+      - path: Group016/Att031
+        weight: 1
+      - path: Group016/Att031/OilTank127
+        weight: 1
+      - path: Group016/Att031/OilTank128
+        weight: 1
+      - path: Group016/Att031/OilTank129
+        weight: 1
+      - path: Group016/OilTank122
+        weight: 1
+      - path: Group016/OilTank123
+        weight: 1
+      - path: Group016/Tube016
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Att032
+        weight: 1
+      - path: Group017/Att032/OilTank132
+        weight: 1
+      - path: Group017/Att032/OilTank133
+        weight: 1
+      - path: Group017/Att032/OilTank134
+        weight: 1
+      - path: Group017/Att033
+        weight: 1
+      - path: Group017/Att033/OilTank135
+        weight: 1
+      - path: Group017/Att033/OilTank136
+        weight: 1
+      - path: Group017/Att033/OilTank137
+        weight: 1
+      - path: Group017/OilTank130
+        weight: 1
+      - path: Group017/OilTank131
+        weight: 1
+      - path: Group017/Tube017
+        weight: 1
+      - path: Group018
+        weight: 1
+      - path: Group018/Att034
+        weight: 1
+      - path: Group018/Att034/OilTank140
+        weight: 1
+      - path: Group018/Att034/OilTank141
+        weight: 1
+      - path: Group018/Att034/OilTank142
+        weight: 1
+      - path: Group018/Att035
+        weight: 1
+      - path: Group018/Att035/OilTank143
+        weight: 1
+      - path: Group018/Att035/OilTank144
+        weight: 1
+      - path: Group018/Att035/OilTank145
+        weight: 1
+      - path: Group018/OilTank138
+        weight: 1
+      - path: Group018/OilTank139
+        weight: 1
+      - path: Group018/Tube018
+        weight: 1
+      - path: Group019
+        weight: 1
+      - path: Group019/Att036
+        weight: 1
+      - path: Group019/Att036/OilTank148
+        weight: 1
+      - path: Group019/Att036/OilTank149
+        weight: 1
+      - path: Group019/Att036/OilTank150
+        weight: 1
+      - path: Group019/Att037
+        weight: 1
+      - path: Group019/Att037/OilTank151
+        weight: 1
+      - path: Group019/Att037/OilTank152
+        weight: 1
+      - path: Group019/Att037/OilTank153
+        weight: 1
+      - path: Group019/OilTank146
+        weight: 1
+      - path: Group019/OilTank147
+        weight: 1
+      - path: Group019/Tube019
+        weight: 1
+      - path: Group020
+        weight: 1
+      - path: Group020/Att038
+        weight: 1
+      - path: Group020/Att038/OilTank156
+        weight: 1
+      - path: Group020/Att038/OilTank157
+        weight: 1
+      - path: Group020/Att038/OilTank158
+        weight: 1
+      - path: Group020/Att039
+        weight: 1
+      - path: Group020/Att039/OilTank159
+        weight: 1
+      - path: Group020/Att039/OilTank160
+        weight: 1
+      - path: Group020/Att039/OilTank161
+        weight: 1
+      - path: Group020/OilTank154
+        weight: 1
+      - path: Group020/OilTank155
+        weight: 1
+      - path: Group020/Tube020
+        weight: 1
+      - path: Group021
+        weight: 1
+      - path: Group021/Att040
+        weight: 1
+      - path: Group021/Att040/OilTank164
+        weight: 1
+      - path: Group021/Att040/OilTank165
+        weight: 1
+      - path: Group021/Att040/OilTank166
+        weight: 1
+      - path: Group021/Att041
+        weight: 1
+      - path: Group021/Att041/OilTank167
+        weight: 1
+      - path: Group021/Att041/OilTank168
+        weight: 1
+      - path: Group021/Att041/OilTank169
+        weight: 1
+      - path: Group021/OilTank162
+        weight: 1
+      - path: Group021/OilTank163
+        weight: 1
+      - path: Group021/Tube021
+        weight: 1
+      - path: Group022
+        weight: 1
+      - path: Group022/Att042
+        weight: 1
+      - path: Group022/Att042/OilTank172
+        weight: 1
+      - path: Group022/Att042/OilTank173
+        weight: 1
+      - path: Group022/Att042/OilTank174
+        weight: 1
+      - path: Group022/Att043
+        weight: 1
+      - path: Group022/Att043/OilTank175
+        weight: 1
+      - path: Group022/Att043/OilTank176
+        weight: 1
+      - path: Group022/Att043/OilTank177
+        weight: 1
+      - path: Group022/OilTank170
+        weight: 1
+      - path: Group022/OilTank171
+        weight: 1
+      - path: Group022/Tube022
+        weight: 1
+      - path: Group023
+        weight: 1
+      - path: Group023/Att044
+        weight: 1
+      - path: Group023/Att044/OilTank180
+        weight: 1
+      - path: Group023/Att044/OilTank181
+        weight: 1
+      - path: Group023/Att044/OilTank182
+        weight: 1
+      - path: Group023/Att045
+        weight: 1
+      - path: Group023/Att045/OilTank183
+        weight: 1
+      - path: Group023/Att045/OilTank184
+        weight: 1
+      - path: Group023/Att045/OilTank185
+        weight: 1
+      - path: Group023/OilTank178
+        weight: 1
+      - path: Group023/OilTank179
+        weight: 1
+      - path: Group023/Tube023
+        weight: 1
+      - path: Group024
+        weight: 1
+      - path: Group024/Att046
+        weight: 1
+      - path: Group024/Att046/OilTank188
+        weight: 1
+      - path: Group024/Att046/OilTank189
+        weight: 1
+      - path: Group024/Att046/OilTank190
+        weight: 1
+      - path: Group024/Att047
+        weight: 1
+      - path: Group024/Att047/OilTank191
+        weight: 1
+      - path: Group024/Att047/OilTank192
+        weight: 1
+      - path: Group024/Att047/OilTank193
+        weight: 1
+      - path: Group024/OilTank186
+        weight: 1
+      - path: Group024/OilTank187
+        weight: 1
+      - path: Group024/Tube024
+        weight: 1
+      - path: Group025
+        weight: 1
+      - path: Group025/Att048
+        weight: 1
+      - path: Group025/Att048/OilTank196
+        weight: 1
+      - path: Group025/Att048/OilTank197
+        weight: 1
+      - path: Group025/Att048/OilTank198
+        weight: 1
+      - path: Group025/Att049
+        weight: 1
+      - path: Group025/Att049/OilTank199
+        weight: 1
+      - path: Group025/Att049/OilTank200
+        weight: 1
+      - path: Group025/Att049/OilTank201
+        weight: 1
+      - path: Group025/OilTank194
+        weight: 1
+      - path: Group025/OilTank195
+        weight: 1
+      - path: Group025/Tube025
+        weight: 1
+      - path: Group026
+        weight: 1
+      - path: Group026/Att050
+        weight: 1
+      - path: Group026/Att050/OilTank204
+        weight: 1
+      - path: Group026/Att050/OilTank205
+        weight: 1
+      - path: Group026/Att050/OilTank206
+        weight: 1
+      - path: Group026/Att051
+        weight: 1
+      - path: Group026/Att051/OilTank207
+        weight: 1
+      - path: Group026/Att051/OilTank208
+        weight: 1
+      - path: Group026/Att051/OilTank209
+        weight: 1
+      - path: Group026/OilTank202
+        weight: 1
+      - path: Group026/OilTank203
+        weight: 1
+      - path: Group026/Tube026
+        weight: 1
+      - path: Group027
+        weight: 1
+      - path: Group027/Att052
+        weight: 1
+      - path: Group027/Att052/OilTank212
+        weight: 1
+      - path: Group027/Att052/OilTank213
+        weight: 1
+      - path: Group027/Att052/OilTank214
+        weight: 1
+      - path: Group027/Att053
+        weight: 1
+      - path: Group027/Att053/OilTank215
+        weight: 1
+      - path: Group027/Att053/OilTank216
+        weight: 1
+      - path: Group027/Att053/OilTank217
+        weight: 1
+      - path: Group027/OilTank210
+        weight: 1
+      - path: Group027/OilTank211
+        weight: 1
+      - path: Group027/Tube027
+        weight: 1
+      - path: Group028
+        weight: 1
+      - path: Group028/Att054
+        weight: 1
+      - path: Group028/Att054/OilTank220
+        weight: 1
+      - path: Group028/Att054/OilTank221
+        weight: 1
+      - path: Group028/Att054/OilTank222
+        weight: 1
+      - path: Group028/Att055
+        weight: 1
+      - path: Group028/Att055/OilTank223
+        weight: 1
+      - path: Group028/Att055/OilTank224
+        weight: 1
+      - path: Group028/Att055/OilTank225
+        weight: 1
+      - path: Group028/OilTank218
+        weight: 1
+      - path: Group028/OilTank219
+        weight: 1
+      - path: Group028/Tube028
+        weight: 1
+      - path: Group029
+        weight: 1
+      - path: Group029/Att056
+        weight: 1
+      - path: Group029/Att056/OilTank228
+        weight: 1
+      - path: Group029/Att056/OilTank229
+        weight: 1
+      - path: Group029/Att056/OilTank230
+        weight: 1
+      - path: Group029/Att057
+        weight: 1
+      - path: Group029/Att057/OilTank231
+        weight: 1
+      - path: Group029/Att057/OilTank232
+        weight: 1
+      - path: Group029/Att057/OilTank233
+        weight: 1
+      - path: Group029/OilTank226
+        weight: 1
+      - path: Group029/OilTank227
+        weight: 1
+      - path: Group029/Tube029
+        weight: 1
+      - path: Group030
+        weight: 1
+      - path: Group030/Att058
+        weight: 1
+      - path: Group030/Att058/OilTank236
+        weight: 1
+      - path: Group030/Att058/OilTank237
+        weight: 1
+      - path: Group030/Att058/OilTank238
+        weight: 1
+      - path: Group030/Att059
+        weight: 1
+      - path: Group030/Att059/OilTank239
+        weight: 1
+      - path: Group030/Att059/OilTank240
+        weight: 1
+      - path: Group030/Att059/OilTank241
+        weight: 1
+      - path: Group030/OilTank234
+        weight: 1
+      - path: Group030/OilTank235
+        weight: 1
+      - path: Group030/Tube030
+        weight: 1
+      - path: Group031
+        weight: 1
+      - path: Group031/Att060
+        weight: 1
+      - path: Group031/Att060/OilTank244
+        weight: 1
+      - path: Group031/Att060/OilTank245
+        weight: 1
+      - path: Group031/Att060/OilTank246
+        weight: 1
+      - path: Group031/Att061
+        weight: 1
+      - path: Group031/Att061/OilTank247
+        weight: 1
+      - path: Group031/Att061/OilTank248
+        weight: 1
+      - path: Group031/Att061/OilTank249
+        weight: 1
+      - path: Group031/OilTank242
+        weight: 1
+      - path: Group031/OilTank243
+        weight: 1
+      - path: Group031/Tube031
+        weight: 1
+      - path: Group032
+        weight: 1
+      - path: Group032/Att062
+        weight: 1
+      - path: Group032/Att062/OilTank252
+        weight: 1
+      - path: Group032/Att062/OilTank253
+        weight: 1
+      - path: Group032/Att062/OilTank254
+        weight: 1
+      - path: Group032/Att063
+        weight: 1
+      - path: Group032/Att063/OilTank255
+        weight: 1
+      - path: Group032/Att063/OilTank256
+        weight: 1
+      - path: Group032/Att063/OilTank257
+        weight: 1
+      - path: Group032/OilTank250
+        weight: 1
+      - path: Group032/OilTank251
+        weight: 1
+      - path: Group032/Tube032
+        weight: 1
+      - path: Group033
+        weight: 1
+      - path: Group033/Att064
+        weight: 1
+      - path: Group033/Att064/OilTank260
+        weight: 1
+      - path: Group033/Att064/OilTank261
+        weight: 1
+      - path: Group033/Att064/OilTank262
+        weight: 1
+      - path: Group033/Att065
+        weight: 1
+      - path: Group033/Att065/OilTank263
+        weight: 1
+      - path: Group033/Att065/OilTank264
+        weight: 1
+      - path: Group033/Att065/OilTank265
+        weight: 1
+      - path: Group033/OilTank258
+        weight: 1
+      - path: Group033/OilTank259
+        weight: 1
+      - path: Group033/Tube033
+        weight: 1
+      - path: Group034
+        weight: 1
+      - path: Group034/Att066
+        weight: 1
+      - path: Group034/Att066/OilTank268
+        weight: 1
+      - path: Group034/Att066/OilTank269
+        weight: 1
+      - path: Group034/Att066/OilTank270
+        weight: 1
+      - path: Group034/Att067
+        weight: 1
+      - path: Group034/Att067/OilTank271
+        weight: 1
+      - path: Group034/Att067/OilTank272
+        weight: 1
+      - path: Group034/Att067/OilTank273
+        weight: 1
+      - path: Group034/OilTank266
+        weight: 1
+      - path: Group034/OilTank267
+        weight: 1
+      - path: Group034/Tube034
+        weight: 1
+      - path: Group035
+        weight: 1
+      - path: Group035/Att068
+        weight: 1
+      - path: Group035/Att068/OilTank276
+        weight: 1
+      - path: Group035/Att068/OilTank277
+        weight: 1
+      - path: Group035/Att068/OilTank278
+        weight: 1
+      - path: Group035/Att069
+        weight: 1
+      - path: Group035/Att069/OilTank279
+        weight: 1
+      - path: Group035/Att069/OilTank280
+        weight: 1
+      - path: Group035/Att069/OilTank281
+        weight: 1
+      - path: Group035/OilTank274
+        weight: 1
+      - path: Group035/OilTank275
+        weight: 1
+      - path: Group035/Tube035
+        weight: 1
+      - path: Group036
+        weight: 1
+      - path: Group036/Att070
+        weight: 1
+      - path: Group036/Att070/OilTank284
+        weight: 1
+      - path: Group036/Att070/OilTank285
+        weight: 1
+      - path: Group036/Att070/OilTank286
+        weight: 1
+      - path: Group036/Att071
+        weight: 1
+      - path: Group036/Att071/OilTank287
+        weight: 1
+      - path: Group036/Att071/OilTank288
+        weight: 1
+      - path: Group036/Att071/OilTank289
+        weight: 1
+      - path: Group036/OilTank282
+        weight: 1
+      - path: Group036/OilTank283
+        weight: 1
+      - path: Group036/Tube036
+        weight: 1
+      - path: Group037
+        weight: 1
+      - path: Group037/Att072
+        weight: 1
+      - path: Group037/Att072/OilTank292
+        weight: 1
+      - path: Group037/Att072/OilTank293
+        weight: 1
+      - path: Group037/Att072/OilTank294
+        weight: 1
+      - path: Group037/Att073
+        weight: 1
+      - path: Group037/Att073/OilTank295
+        weight: 1
+      - path: Group037/Att073/OilTank296
+        weight: 1
+      - path: Group037/Att073/OilTank297
+        weight: 1
+      - path: Group037/OilTank290
+        weight: 1
+      - path: Group037/OilTank291
+        weight: 1
+      - path: Group037/Tube037
+        weight: 1
+      - path: Group038
+        weight: 1
+      - path: Group038/Att074
+        weight: 1
+      - path: Group038/Att074/OilTank300
+        weight: 1
+      - path: Group038/Att074/OilTank301
+        weight: 1
+      - path: Group038/Att074/OilTank302
+        weight: 1
+      - path: Group038/Att075
+        weight: 1
+      - path: Group038/Att075/OilTank303
+        weight: 1
+      - path: Group038/Att075/OilTank304
+        weight: 1
+      - path: Group038/Att075/OilTank305
+        weight: 1
+      - path: Group038/OilTank298
+        weight: 1
+      - path: Group038/OilTank299
+        weight: 1
+      - path: Group038/Tube038
+        weight: 1
+      - path: Group039
+        weight: 1
+      - path: Group039/Att076
+        weight: 1
+      - path: Group039/Att076/OilTank308
+        weight: 1
+      - path: Group039/Att076/OilTank309
+        weight: 1
+      - path: Group039/Att076/OilTank310
+        weight: 1
+      - path: Group039/Att077
+        weight: 1
+      - path: Group039/Att077/OilTank311
+        weight: 1
+      - path: Group039/Att077/OilTank312
+        weight: 1
+      - path: Group039/Att077/OilTank313
+        weight: 1
+      - path: Group039/OilTank306
+        weight: 1
+      - path: Group039/OilTank307
+        weight: 1
+      - path: Group039/Tube039
+        weight: 1
+      - path: Group040
+        weight: 1
+      - path: Group040/Att078
+        weight: 1
+      - path: Group040/Att078/OilTank316
+        weight: 1
+      - path: Group040/Att078/OilTank317
+        weight: 1
+      - path: Group040/Att078/OilTank318
+        weight: 1
+      - path: Group040/Att079
+        weight: 1
+      - path: Group040/Att079/OilTank319
+        weight: 1
+      - path: Group040/Att079/OilTank320
+        weight: 1
+      - path: Group040/Att079/OilTank321
+        weight: 1
+      - path: Group040/OilTank314
+        weight: 1
+      - path: Group040/OilTank315
+        weight: 1
+      - path: Group040/Tube040
+        weight: 1
+      - path: Group041
+        weight: 1
+      - path: Group041/Att080
+        weight: 1
+      - path: Group041/Att080/OilTank324
+        weight: 1
+      - path: Group041/Att080/OilTank325
+        weight: 1
+      - path: Group041/Att080/OilTank326
+        weight: 1
+      - path: Group041/Att081
+        weight: 1
+      - path: Group041/Att081/OilTank327
+        weight: 1
+      - path: Group041/Att081/OilTank328
+        weight: 1
+      - path: Group041/Att081/OilTank329
+        weight: 1
+      - path: Group041/OilTank322
+        weight: 1
+      - path: Group041/OilTank323
+        weight: 1
+      - path: Group041/Tube041
+        weight: 1
+      - path: Group042
+        weight: 1
+      - path: Group042/Att082
+        weight: 1
+      - path: Group042/Att082/OilTank332
+        weight: 1
+      - path: Group042/Att082/OilTank333
+        weight: 1
+      - path: Group042/Att082/OilTank334
+        weight: 1
+      - path: Group042/Att083
+        weight: 1
+      - path: Group042/Att083/OilTank335
+        weight: 1
+      - path: Group042/Att083/OilTank336
+        weight: 1
+      - path: Group042/Att083/OilTank337
+        weight: 1
+      - path: Group042/OilTank330
+        weight: 1
+      - path: Group042/OilTank331
+        weight: 1
+      - path: Group042/Tube042
+        weight: 1
+      - path: Group043
+        weight: 1
+      - path: Group043/Att084
+        weight: 1
+      - path: Group043/Att084/OilTank340
+        weight: 1
+      - path: Group043/Att084/OilTank341
+        weight: 1
+      - path: Group043/Att084/OilTank342
+        weight: 1
+      - path: Group043/Att085
+        weight: 1
+      - path: Group043/Att085/OilTank343
+        weight: 1
+      - path: Group043/Att085/OilTank344
+        weight: 1
+      - path: Group043/Att085/OilTank345
+        weight: 1
+      - path: Group043/OilTank338
+        weight: 1
+      - path: Group043/OilTank339
+        weight: 1
+      - path: Group043/Tube043
+        weight: 1
+      - path: Group044
+        weight: 1
+      - path: Group044/Att086
+        weight: 1
+      - path: Group044/Att086/OilTank348
+        weight: 1
+      - path: Group044/Att086/OilTank349
+        weight: 1
+      - path: Group044/Att086/OilTank350
+        weight: 1
+      - path: Group044/Att087
+        weight: 1
+      - path: Group044/Att087/OilTank351
+        weight: 1
+      - path: Group044/Att087/OilTank352
+        weight: 1
+      - path: Group044/Att087/OilTank353
+        weight: 1
+      - path: Group044/OilTank346
+        weight: 1
+      - path: Group044/OilTank347
+        weight: 1
+      - path: Group044/Tube044
+        weight: 1
+      - path: Group045
+        weight: 1
+      - path: Group045/Att088
+        weight: 1
+      - path: Group045/Att088/OilTank356
+        weight: 1
+      - path: Group045/Att088/OilTank357
+        weight: 1
+      - path: Group045/Att088/OilTank358
+        weight: 1
+      - path: Group045/Att089
+        weight: 1
+      - path: Group045/Att089/OilTank359
+        weight: 1
+      - path: Group045/Att089/OilTank360
+        weight: 1
+      - path: Group045/Att089/OilTank361
+        weight: 1
+      - path: Group045/OilTank354
+        weight: 1
+      - path: Group045/OilTank355
+        weight: 1
+      - path: Group045/Tube045
+        weight: 1
+      - path: Group046
+        weight: 1
+      - path: Group046/Att090
+        weight: 1
+      - path: Group046/Att090/OilTank364
+        weight: 1
+      - path: Group046/Att090/OilTank365
+        weight: 1
+      - path: Group046/Att090/OilTank366
+        weight: 1
+      - path: Group046/Att091
+        weight: 1
+      - path: Group046/Att091/OilTank367
+        weight: 1
+      - path: Group046/Att091/OilTank368
+        weight: 1
+      - path: Group046/Att091/OilTank369
+        weight: 1
+      - path: Group046/OilTank362
+        weight: 1
+      - path: Group046/OilTank363
+        weight: 1
+      - path: Group046/Tube046
+        weight: 1
+      - path: Group047
+        weight: 1
+      - path: Group047/Att092
+        weight: 1
+      - path: Group047/Att092/OilTank372
+        weight: 1
+      - path: Group047/Att092/OilTank373
+        weight: 1
+      - path: Group047/Att092/OilTank374
+        weight: 1
+      - path: Group047/Att093
+        weight: 1
+      - path: Group047/Att093/OilTank375
+        weight: 1
+      - path: Group047/Att093/OilTank376
+        weight: 1
+      - path: Group047/Att093/OilTank377
+        weight: 1
+      - path: Group047/OilTank370
+        weight: 1
+      - path: Group047/OilTank371
+        weight: 1
+      - path: Group047/Tube047
+        weight: 1
+      - path: Group048
+        weight: 1
+      - path: Group048/Att094
+        weight: 1
+      - path: Group048/Att094/OilTank380
+        weight: 1
+      - path: Group048/Att094/OilTank381
+        weight: 1
+      - path: Group048/Att094/OilTank382
+        weight: 1
+      - path: Group048/Att095
+        weight: 1
+      - path: Group048/Att095/OilTank383
+        weight: 1
+      - path: Group048/Att095/OilTank384
+        weight: 1
+      - path: Group048/Att095/OilTank385
+        weight: 1
+      - path: Group048/OilTank378
+        weight: 1
+      - path: Group048/OilTank379
+        weight: 1
+      - path: Group048/Tube048
+        weight: 1
+      - path: Group049
+        weight: 1
+      - path: Group049/Att096
+        weight: 1
+      - path: Group049/Att096/OilTank388
+        weight: 1
+      - path: Group049/Att096/OilTank389
+        weight: 1
+      - path: Group049/Att096/OilTank390
+        weight: 1
+      - path: Group049/Att097
+        weight: 1
+      - path: Group049/Att097/OilTank391
+        weight: 1
+      - path: Group049/Att097/OilTank392
+        weight: 1
+      - path: Group049/Att097/OilTank393
+        weight: 1
+      - path: Group049/OilTank386
+        weight: 1
+      - path: Group049/OilTank387
+        weight: 1
+      - path: Group049/Tube049
+        weight: 1
+      - path: Group050
+        weight: 1
+      - path: Group050/Att098
+        weight: 1
+      - path: Group050/Att098/OilTank396
+        weight: 1
+      - path: Group050/Att098/OilTank397
+        weight: 1
+      - path: Group050/Att098/OilTank398
+        weight: 1
+      - path: Group050/Att099
+        weight: 1
+      - path: Group050/Att099/OilTank399
+        weight: 1
+      - path: Group050/Att099/OilTank400
+        weight: 1
+      - path: Group050/Att099/OilTank401
+        weight: 1
+      - path: Group050/OilTank394
+        weight: 1
+      - path: Group050/OilTank395
+        weight: 1
+      - path: Group050/Tube050
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 20c9de84a042e3e4e86616d4d655a653
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: ChamferBox001
+    100008: ChamferBox002
+    100010: Object001
+    100012: Omni001
+    100014: Omni002
+    100016: Omni003
+    100018: //RootNode
+    100020: Pyramid001
+    100022: Pyramid002
+    100024: Pyramid003
+    100026: Pyramid004
+    100028: Pyramid005
+    100030: Pyramid006
+    100032: Pyramid007
+    100034: Pyramid008
+    100036: Pyramid009
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: ChamferBox001
+    400008: ChamferBox002
+    400010: Object001
+    400012: Omni001
+    400014: Omni002
+    400016: Omni003
+    400018: //RootNode
+    400020: Pyramid001
+    400022: Pyramid002
+    400024: Pyramid003
+    400026: Pyramid004
+    400028: Pyramid005
+    400030: Pyramid006
+    400032: Pyramid007
+    400034: Pyramid008
+    400036: Pyramid009
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: ChamferBox001
+    2300008: ChamferBox002
+    2300010: Object001
+    2300012: Pyramid001
+    2300014: Pyramid002
+    2300016: Pyramid003
+    2300018: Pyramid004
+    2300020: Pyramid005
+    2300022: Pyramid006
+    2300024: Pyramid007
+    2300026: Pyramid008
+    2300028: Pyramid009
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: ChamferBox001
+    3300008: ChamferBox002
+    3300010: Object001
+    3300012: Pyramid001
+    3300014: Pyramid002
+    3300016: Pyramid003
+    3300018: Pyramid004
+    3300020: Pyramid005
+    3300022: Pyramid006
+    3300024: Pyramid007
+    3300026: Pyramid008
+    3300028: Pyramid009
+    4300000: Box001
+    4300002: ChamferBox001
+    4300004: Box002
+    4300006: Box003
+    4300008: ChamferBox002
+    4300010: Object001
+    4300012: Pyramid001
+    4300014: Pyramid002
+    4300016: Pyramid003
+    4300018: Pyramid004
+    4300020: Pyramid005
+    4300022: Pyramid006
+    4300024: Pyramid007
+    4300026: Pyramid008
+    4300028: Pyramid009
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

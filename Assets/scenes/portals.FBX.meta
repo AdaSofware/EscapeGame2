@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 339115a05b446aa449b29cc038e2a994
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: OilTank018
+    100004: OilTank019
+    100006: OilTank020
+    100008: OilTank021
+    100010: OilTank022
+    100012: OilTank023
+    100014: OilTank024
+    100016: OilTank025
+    100018: //RootNode
+    100020: Tube003
+    100022: Tube004
+    100024: Tube005
+    100026: Tube006
+    100028: Tube007
+    400000: Cylinder001
+    400002: OilTank018
+    400004: OilTank019
+    400006: OilTank020
+    400008: OilTank021
+    400010: OilTank022
+    400012: OilTank023
+    400014: OilTank024
+    400016: OilTank025
+    400018: //RootNode
+    400020: Tube003
+    400022: Tube004
+    400024: Tube005
+    400026: Tube006
+    400028: Tube007
+    2300000: Cylinder001
+    2300002: OilTank018
+    2300004: OilTank019
+    2300006: OilTank020
+    2300008: OilTank021
+    2300010: OilTank022
+    2300012: OilTank023
+    2300014: OilTank024
+    2300016: OilTank025
+    2300018: Tube003
+    2300020: Tube004
+    2300022: Tube005
+    2300024: Tube006
+    2300026: Tube007
+    3300000: Cylinder001
+    3300002: OilTank018
+    3300004: OilTank019
+    3300006: OilTank020
+    3300008: OilTank021
+    3300010: OilTank022
+    3300012: OilTank023
+    3300014: OilTank024
+    3300016: OilTank025
+    3300018: Tube003
+    3300020: Tube004
+    3300022: Tube005
+    3300024: Tube006
+    3300026: Tube007
+    4300000: Tube003
+    4300002: OilTank018
+    4300004: OilTank019
+    4300006: Cylinder001
+    4300008: Tube004
+    4300010: Tube005
+    4300012: Tube006
+    4300014: Tube007
+    4300016: OilTank023
+    4300018: OilTank024
+    4300020: OilTank025
+    4300022: OilTank020
+    4300024: OilTank021
+    4300026: OilTank022
+    7400000: PORTAL
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PORTAL
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: OilTank018
+        weight: 1
+      - path: OilTank019
+        weight: 1
+      - path: OilTank020
+        weight: 1
+      - path: OilTank021
+        weight: 1
+      - path: OilTank022
+        weight: 1
+      - path: OilTank023
+        weight: 1
+      - path: OilTank024
+        weight: 1
+      - path: OilTank025
+        weight: 1
+      - path: Tube003
+        weight: 1
+      - path: Tube004
+        weight: 1
+      - path: Tube005
+        weight: 1
+      - path: Tube006
+        weight: 1
+      - path: Tube007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
